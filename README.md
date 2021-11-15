@@ -1,9 +1,9 @@
 <p align="center">
-    <img alt="rgt" src="https://www.realgoodtouring.com/assets/images/smalllogo.png" width="80" />
+    <img alt="rgt" src="https://www.realgoodtouring.com/assets/images/smalllogo.png" width="200" />
 </p>
 
-    ```shell
-    npm run develop
-    ```
-
-    Your site is now running at http://localhost:8000!
+ ```    
+    npm init gatsby
+ ```
+ 
+ Runs at http://localhost:8000
