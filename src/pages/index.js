@@ -1,11 +1,10 @@
 import * as React from "react";
-import Layout from "../components/layout";
 import { StaticImage } from "gatsby-plugin-image";
 
 // markup
 const IndexPage = () => {
   return (
-    <Layout>
+    <>
       <header id="header">
         <div id="heaader-bg">
           <a href="#site-header">
@@ -48,7 +47,7 @@ const IndexPage = () => {
 
         <ul class="date-list"></ul>
       </section>
-    </Layout>
+    </>
   );
 };
 
