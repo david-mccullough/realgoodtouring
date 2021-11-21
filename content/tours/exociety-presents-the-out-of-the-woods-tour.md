@@ -11,6 +11,6 @@ events:
     body: https://otwtampa.eventbrite.com/
     venueName: Crowbar
     location: Tampa, FL
-    isSoldOut: true
+    isSoldOut: false
     note: "*New show added!"
 ---
