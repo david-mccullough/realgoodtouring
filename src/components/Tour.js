@@ -23,7 +23,7 @@ const Tour = (props) => (
         {props.tour.events.map((show) => (
           <Show
             key={show.date}
-            ticketLink={show.ticketLink}
+            ticketsLink={show.ticketsLink}
             venueName={show.venueName}
             date={show.date}
             location={show.location}

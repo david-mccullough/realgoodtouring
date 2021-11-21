@@ -558,7 +558,7 @@ h2 {
   margin: 0 10px;
 }
 
-.social-link img {
+.social-link .gatsby-image-wrapper {
   width: 52px;
   -webkit-transform: scale(0.8);
   transform: scale(0.8);
@@ -566,7 +566,7 @@ h2 {
   transition: all 0.25s ease;
 }
 
-.social-link:hover img {
+.social-link:hover .gatsby-image-wrapper {
   -webkit-transform: scale(1);
   transform: scale(1);
 }
@@ -588,10 +588,6 @@ a img {
 a {
   outline: none;
   border-width: 0px;
-}
-
-#complete {
-  display: none;
 }
 
 #newsletter {

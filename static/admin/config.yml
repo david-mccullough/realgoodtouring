@@ -36,7 +36,7 @@ collections:
               hint: "e.g. Los Angeles, CA",
             }
           - { label: "Venue Name", name: "venueName", widget: "string" }
-          - { label: "Tickets Link", name: "body", widget: "string" }
+          - { label: "Tickets Link", name: "ticketsLink", widget: "string" }
           - {
               label: "Sold Out",
               name: "isSoldOut",
@@ -50,5 +50,5 @@ collections:
               required: false,
               default: "",
               widget: "string",
-              hint: 'e.g. "*Venue Change"',
+              hint: "e.g. *Venue Change",
             }

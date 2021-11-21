@@ -2,7 +2,9 @@ import * as React from "react";
 import { graphql } from "gatsby";
 import { Helmet } from "react-helmet";
 import { StaticImage } from "gatsby-plugin-image";
+import Layout from "./../components/Layout";
 import Tour from "./../components/Tour";
+import NewsletterForm from "../components/NewsletterForm";
 import "../styles/index.css";
 
 // markup
@@ -30,7 +32,7 @@ const IndexPage = ({
 
   console.log(edges);
   return (
-    <>
+    <Layout>
       <Helmet>
         <meta charset="UTF-8" />
         <title>Real Good Touring</title>
@@ -102,6 +104,7 @@ const IndexPage = ({
             <StaticImage
               src="../images/logo.png"
               alt="Real Good Touring logo"
+              placeholder="none"
             />
           </div>
         </div>
@@ -118,7 +121,16 @@ const IndexPage = ({
           <ul className="date-list">{Tours}</ul>
         </div>
       </section>
-    </>
+      <noscript>
+        <img
+          src="https://ws.zoominfo.com/pixel/lwayZkuFnM9h0qAjqkut"
+          width="1"
+          height="1"
+          style="display: none;"
+        />
+      </noscript>
+      <NewsletterForm />
+    </Layout>
   );
 };
 export default IndexPage;
@@ -134,8 +146,7 @@ export const AllToursJsonQuery = graphql`
             Image {
               childImageSharp {
                 gatsbyImageData(
-                  width: 400
-                  height: 400
+                  width: 500
                   blurredOptions: { width: 100 }
                   placeholder: BLURRED
                   transformOptions: { cropFocus: NORTH }
@@ -143,7 +154,7 @@ export const AllToursJsonQuery = graphql`
               }
             }
             events {
-              body
+              ticketsLink
               date
               isSoldOut
               location

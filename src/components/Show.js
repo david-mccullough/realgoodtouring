@@ -20,7 +20,7 @@ function Show(props) {
       {props.isSoldOut ? (
         <div className="sold-out">Sold Out</div>
       ) : (
-        <a href={props.ticketLink} className="button">
+        <a href={props.ticketsLink} className="button">
           Tickets
         </a>
       )}
