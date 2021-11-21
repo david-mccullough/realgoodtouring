@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "tour"
     label: "Tour"
-    extension: "json"
+    extension: "md"
     folder: "content/tours"
     create: true
     editor:
