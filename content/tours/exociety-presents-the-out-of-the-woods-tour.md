@@ -129,4 +129,34 @@ events:
     location: Lakewood, OH
     venueName: Mahall's
     body: https://seetickets.us/ravkillbillcle
+  - isSoldOut: false
+    note: ""
+    date: 2022-04-25T03:15:30.538Z
+    location: Burlington, VT
+    venueName: Higher Ground Showcase Lounge
+    body: https://www.eventbrite.com/e/rav-kill-bill-the-rapper-tickets-208810567027
+  - isSoldOut: false
+    note: ""
+    date: 2022-04-26T03:16:23.513Z
+    body: https://www.ticketweb.com/event/the-out-of-the-woods-middle-east-upstairs-tickets/11526755?pl=mideastclub
+    location: Boston, MA
+    venueName: Middle East Upstairs
+  - isSoldOut: false
+    note: ""
+    date: 2022-04-27T03:16:23.838Z
+    location: Brooklyn, NY
+    venueName: Knitting Factory
+    body: https://bit.ly/ravkfbk
+  - isSoldOut: false
+    note: ""
+    date: 2022-04-28T03:16:23.689Z
+    body: https://killbillrav042721.eventbrite.com/
+    venueName: Kung Fu Necktie
+    location: Philadelphia, PA
+  - isSoldOut: true
+    note: ""
+    date: 2022-04-29T03:16:23.963Z
+    location: Washignton, DC
+    venueName: Pie Shop
+    body: https://www.etix.com/ticket/p/2979701/exociety-presentsthe-out-of-the-woods-tour-featrav-kill-bill-scuare-airospace-washington-pie-shop
 ---
