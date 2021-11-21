@@ -1,28 +1,39 @@
 import React from "react";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import Show from "./Show";
+import "../styles/index.css";
 
-function Tour(props) {
+const Tour = (props) => (
   <li>
-    <div class="poster">
-      <img src={`assets/tourPosterThumbs/${image}`} alt={props.image} />
+    <div className="poster">
+      <div className="poster-img">
+        <GatsbyImage
+          image={getImage(props.tour.Image)}
+          alt={props.tour.title}
+          layout="constrained"
+        />
+      </div>
+      {/* <img src={`/img/${props.tour.image}`} alt={props.tour.image} /> */}
     </div>
-    <div class="details">
-      <h3>{props.title}</h3>
-      <div class="floating-date">{props.year}</div>
+    <div className="details">
+      <h3>{props.tour.title}</h3>
+      <div className="floating-date">{props.tour.year}</div>
 
       <ul>
-        {props.shows.map((show) => (
+        {props.tour.events.map((show) => (
           <Show
+            key={show.date}
             ticketLink={show.ticketLink}
             venueName={show.venueName}
             date={show.date}
             location={show.location}
-            isSoldOut={show.isSoludOut}
+            isSoldOut={show.isSoldOut}
+            note={show.note}
           />
         ))}
       </ul>
     </div>
-  </li>;
-}
+  </li>
+);
 
 export default Tour;

@@ -1,6 +1,6 @@
 ---
 title: Exociety Presents The Out of the Woods Tour
-image: exociety.jpg
+Image: ../../static/img/exociety.jpg
 events:
   - date: 2022-03-21T08:14:00.000Z
     location: Atlanta, GA
@@ -12,4 +12,5 @@ events:
     venueName: Crowbar
     location: Tampa, FL
     isSoldOut: true
+    note: "*New show added!"
 ---

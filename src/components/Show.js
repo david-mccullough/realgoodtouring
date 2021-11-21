@@ -1,19 +1,26 @@
 import React from "react";
 import * as dayjs from "dayjs";
+import "../styles/index.css";
 
 function Show(props) {
   return (
     <li>
-      <div class="event-info">
+      <div className="event-info">
         <time>{dayjs(props.date).format("ddd MM/DD")}</time>
         <address>
-          {props.location} <span class="bullet">|</span> {props.venueName}
+          {props.location} <span className="bullet">|</span> {props.venueName}
+          {props.note && props.note != "" && (
+            <small>
+              <br />
+              {props.note}
+            </small>
+          )}
         </address>
       </div>
       {props.isSoldOut ? (
-        <p class="sold-out">Sold Out</p>
+        <div className="sold-out">Sold Out</div>
       ) : (
-        <a href={props.ticketLink} class="button">
+        <a href={props.ticketLink} className="button">
           Tickets
         </a>
       )}

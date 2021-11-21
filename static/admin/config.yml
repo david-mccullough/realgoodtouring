@@ -6,18 +6,49 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "content/blog"
+  - name: "tour"
+    label: "Tour"
+    extension: "json"
+    folder: "content/tours"
     create: true
-    slug: "index"
-    media_folder: ""
-    public_folder: ""
-    path: "{{title}}/index"
     editor:
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Thumbnail",
+          name: "Image",
+          widget: "image",
+          hint: "Try to keep below 200kb!",
+          required: false,
+          default: "",
+        }
+      - label: "Events"
+        name: "events"
+        widget: "list"
+        summary: "{{fields.location}} - {{fields.date}}"
+        fields:
+          - { label: "Date", name: "date", widget: "datetime" }
+          - {
+              label: "Location",
+              name: "location",
+              widget: "string",
+              hint: "e.g. Los Angeles, CA",
+            }
+          - { label: "Venue Name", name: "venueName", widget: "string" }
+          - { label: "Tickets Link", name: "body", widget: "string" }
+          - {
+              label: "Sold Out",
+              name: "isSoldOut",
+              widget: "boolean",
+              required: false,
+              default: false,
+            }
+          - {
+              label: "Note",
+              name: "note",
+              required: false,
+              default: "",
+              widget: "string",
+              hint: 'e.g. "*Venue Change"',
+            }

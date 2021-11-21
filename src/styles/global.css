@@ -110,7 +110,7 @@ a {
 time {
   margin-right: 20px;
   color: #d1d1d6;
-  width: 97px;
+  width: 110px;
 }
 
 .event-info {
@@ -744,7 +744,7 @@ h3 {
     top: 132px;
   }
 
-  .date-list .poster img {
+  .date-list .poster .poster-img {
     position: -webkit-sticky;
     position: sticky;
     top: 92px;
