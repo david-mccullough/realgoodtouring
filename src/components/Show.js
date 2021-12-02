@@ -6,7 +6,7 @@ function Show(props) {
   return (
     <li>
       <div className="event-info">
-        <time>{dayjs(props.date).format("ddd MM/DD")}</time>
+        <time>{dayjs(props.date).format("ddd M/D")}</time>
         <address>
           {props.location} <span className="bullet">|</span> {props.venueName}
           {props.note && props.note != "" && (
