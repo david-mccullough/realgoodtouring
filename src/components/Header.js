@@ -8,6 +8,9 @@ const Header = () => (
         <StaticImage
           src="../images/smalllogo.png"
           alt="Real Good Touring logo"
+          height={45}
+          imgStyle={{ objectFit: "contain" }}
+          layout="fixed"
         />
       </a>
       <div id="menu">Menu</div>

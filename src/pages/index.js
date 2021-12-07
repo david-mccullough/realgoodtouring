@@ -1,9 +1,7 @@
 import * as React from "react";
 import { graphql } from "gatsby";
-import { Helmet } from "react-helmet";
 import MetaTags from "./../components/MetaTags";
 import { StaticImage } from "gatsby-plugin-image";
-import Layout from "./../components/Layout";
 import Tour from "./../components/Tour";
 import Footer from "../components/Footer";
 import NewsletterForm from "../components/NewsletterForm";
@@ -14,9 +12,13 @@ const IndexPage = ({
     allMarkdownRemark: { edges },
   },
 }) => {
-  // useEffect(() => {
-  //   console.log(edges);
-  // }, []);
+  const [isHeaderFixed, setIsHeaderFixed] = React.useState(false);
+  React.useEffect(() => {
+    window.addEventListener("scroll", () => {
+      setIsHeaderFixed(window.scrollY > 200);
+    });
+  }, []);
+
   let currentDate = new Date(new Date().toDateString());
   edges.forEach((edge) => {
     edge.events = edge.node.frontmatter.events.sort(function (a, b) {
@@ -34,12 +36,15 @@ const IndexPage = ({
   return (
     <>
       <MetaTags title="Real Good Touring" />
-      <header id="header">
+      <header id="header" className={isHeaderFixed && "fixed"}>
         <div id="heaader-bg">
           <a href="#site-header">
             <StaticImage
               src="../images/smalllogo.png"
               alt="Real Good Touring logo"
+              height={45}
+              imgStyle={{ objectFit: "contain" }}
+              layout="fixed"
             />
           </a>
           <div id="menu">Menu</div>

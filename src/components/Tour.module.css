@@ -14,6 +14,18 @@
   line-height: 1.4;
 }
 .button,
-.sold-out {
+.soldOut {
   margin-left: auto;
+}
+
+.soldOut {
+  font-weight: bold;
+  border-radius: 9px;
+  display: inline-block;
+  text-decoration: none;
+  padding: 8px 15px;
+  vertical-align: middle;
+  font-size: 19px;
+  letter-spacing: 0.27px;
+  text-align: center;
 }
