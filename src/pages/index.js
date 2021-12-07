@@ -1,8 +1,10 @@
 import * as React from "react";
 import { graphql } from "gatsby";
+// import * as dayjs from "dayjs";
 import MetaTags from "./../components/MetaTags";
 import { StaticImage } from "gatsby-plugin-image";
 import Tour from "./../components/Tour";
+import Header from "../components/Header";
 import Footer from "../components/Footer";
 import NewsletterForm from "../components/NewsletterForm";
 
@@ -14,19 +16,33 @@ const IndexPage = ({
 }) => {
   const [isHeaderFixed, setIsHeaderFixed] = React.useState(false);
   React.useEffect(() => {
+    // scroll pos sets navbar fixed status
     setIsHeaderFixed(window.scrollY > 200);
     window.addEventListener("scroll", () => {
       setIsHeaderFixed(window.scrollY > 200);
     });
+
+    // anchors to smooth scroll
+    document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+      anchor.addEventListener("click", function (e) {
+        e.preventDefault();
+
+        document.querySelector(this.getAttribute("href")).scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+      });
+    });
   }, []);
 
-  let currentDate = new Date(new Date().toDateString());
+  let currentDate = new Date().toISOString();
+
   edges.forEach((edge) => {
     edge.events = edge.node.frontmatter.events.sort(function (a, b) {
-      return new Date(a.date) - new Date(b.date);
+      return new Date(a.date).toISOString() - new Date(b.date).toISOString();
     });
     edge.node.events = edge.node.frontmatter.events.filter(
-      (event) => new Date(new Date(event.date).toDateString()) <= currentDate
+      (event) => new Date(event.date).toISOString() <= currentDate
     );
   });
 
@@ -37,28 +53,7 @@ const IndexPage = ({
   return (
     <>
       <MetaTags title="Real Good Touring" />
-      <header id="header" className={isHeaderFixed && "fixed"}>
-        <div id="heaader-bg">
-          <a href="#site-header">
-            <StaticImage
-              src="../images/smalllogo.png"
-              alt="Real Good Touring logo"
-              height={45}
-              imgStyle={{ objectFit: "contain" }}
-              layout="fixed"
-            />
-          </a>
-          <div id="menu">Menu</div>
-        </div>
-        <div className="nav">
-          <a href="https://store.realgoodtouring.com">Store</a>
-          <a href="#main">Upcoming Shows</a>
-          <a href="covid">COVID</a>
-          <a href="productions">Produced by RGT</a>
-          <a href="careers">Careers</a>
-          <a href="#footer">Contact</a>
-        </div>
-      </header>
+      <Header isHeaderFixed={isHeaderFixed} isHomePage={true} />
       <header id="site-header">
         <div className="container">
           <div id="logo">
