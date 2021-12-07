@@ -11,6 +11,7 @@ const Header = () => (
           height={45}
           imgStyle={{ objectFit: "contain" }}
           layout="fixed"
+          placeholder="none"
         />
       </a>
       <div id="menu">Menu</div>

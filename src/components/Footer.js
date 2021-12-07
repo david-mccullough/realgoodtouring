@@ -14,6 +14,7 @@ const Footer = () => (
         <StaticImage
           src="../images/smalllogo.png"
           alt="Real Good Touring logo"
+          placeholder="none"
         />
       </div>
       <a
@@ -24,7 +25,7 @@ const Footer = () => (
         <StaticImage
           src="../images/twitter.png"
           alt="Twitter"
-          placeholder="none"
+          placeholder="tracedSVG"
         />
       </a>
       <a
@@ -35,7 +36,7 @@ const Footer = () => (
         <StaticImage
           src="../images/instagram.png"
           alt="Instagram"
-          placeholder="none"
+          placeholder="tracedSVG"
         />
       </a>
       <a href="/privacy-policy" class="footer-link">

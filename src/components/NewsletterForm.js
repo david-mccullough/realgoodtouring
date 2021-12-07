@@ -35,7 +35,7 @@ export default function NewsletterForm() {
                 class="quantumWizTextinputPaperinputInput exportInput"
                 jsname="YPqjbf"
                 autocomplete="email"
-                tabindex="0"
+                tabIndex="0"
                 aria-label="Your email"
                 name="emailAddress"
                 required=""
