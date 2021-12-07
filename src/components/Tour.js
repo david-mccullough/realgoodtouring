@@ -1,10 +1,10 @@
 import React from "react";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import Show from "./Show";
-import "../styles/index.css";
+import * as styles from "./Tour.module.css";
 
 const Tour = (props) => (
-  <li>
+  <li className={styles.item}>
     <div className="poster">
       <div className="poster-img">
         <GatsbyImage

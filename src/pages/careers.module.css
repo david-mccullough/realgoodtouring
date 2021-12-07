@@ -1,0 +1,63 @@
+.main {
+  padding-top: 200px;
+  padding-bottom: 60px;
+}
+
+.job h1 {
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 30px;
+  color: #ffffff;
+  letter-spacing: 5.73px;
+}
+
+.job li {
+  list-style: disc;
+  margin: 10px 0 0 0;
+  font-size: 20px;
+}
+
+.job p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.job {
+  width: auto;
+  margin-right: 4%;
+}
+
+.apply {
+  margin-top: 10px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 90px;
+  width: 294px;
+  font-size: 24px;
+  word-wrap: break-word;
+}
+
+.applyMobile {
+  margin: 60px auto 20px auto;
+  font-size: 24px;
+  display: none;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.apply a {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+@media only screen and (max-width: 1020px) {
+  .apply {
+    display: none;
+  }
+  .applyMobile {
+    display: block;
+  }
+  .row {
+    padding: 0 20px;
+  }
+}
