@@ -2,7 +2,7 @@ import React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 
 const Header = () => (
-  <header id="header" class="fixed">
+  <header id="header" className="fixed">
     <div id="heaader-bg">
       <a href="/">
         <StaticImage
@@ -16,7 +16,7 @@ const Header = () => (
       </a>
       <div id="menu">Menu</div>
     </div>
-    <div class="nav">
+    <div className="nav">
       <a href="https://store.realgoodtouring.com">Store</a>
       <a href="/#main">Upcoming Shows</a>
       <a href="covid">COVID</a>

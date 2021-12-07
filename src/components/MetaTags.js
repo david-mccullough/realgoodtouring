@@ -46,6 +46,7 @@ const MetaTags = ({ title }) => (
       rel="shortcut icon"
       href="https://www.realgoodtouring.com/assets/images/favicon.png"
     ></link>
+    <script src="scripts/cookie-consent.min.js"></script>
   </Helmet>
 );
 

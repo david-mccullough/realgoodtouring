@@ -1,0 +1,28 @@
+.main {
+  padding-top: 200px;
+  padding-bottom: 60px;
+}
+
+.main h1 {
+  font-weight: 800;
+  letter-spacing: 0.57px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 42px;
+}
+
+@media only screen and (min-width: 720px) {
+  .main h1 {
+    margin: 50px 0;
+  }
+}
+
+.main p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+}

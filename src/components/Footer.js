@@ -3,13 +3,13 @@ import { StaticImage } from "gatsby-plugin-image";
 
 const Footer = () => (
   <section id="footer">
-    <div class="container contact-details">
+    <div className="container contact-details">
       <h5>Booking</h5>
       <a href="mailto:booking@realgoodtouring.com">
         booking@realgoodtouring.com
       </a>
     </div>
-    <div class="container social-details">
+    <div className="container social-details">
       <div className="footer-logo">
         <StaticImage
           src="../images/smalllogo.png"
@@ -20,7 +20,7 @@ const Footer = () => (
       <a
         href="https://twitter.com/RealGoodTouring"
         target="_blank"
-        class="social-link"
+        className="social-link"
       >
         <StaticImage
           src="../images/twitter.png"
@@ -31,7 +31,7 @@ const Footer = () => (
       <a
         href="https://www.instagram.com/realgoodtouring/"
         target="_blank"
-        class="social-link"
+        className="social-link"
       >
         <StaticImage
           src="../images/instagram.png"
@@ -39,7 +39,7 @@ const Footer = () => (
           placeholder="tracedSVG"
         />
       </a>
-      <a href="/privacy-policy" class="footer-link">
+      <a href="/privacy-policy" className="footer-link">
         Privacy Policy
       </a>
     </div>

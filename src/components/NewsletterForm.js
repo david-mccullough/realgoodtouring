@@ -17,7 +17,7 @@ export default function NewsletterForm() {
       ></iframe>
       {!submitted && (
         <div id="form">
-          <div class="container">
+          <div className="container">
             <h2>Keep up to date!</h2>
             <p>
               Sign up to learn about news, upcoming tours and updates with us at
@@ -32,9 +32,9 @@ export default function NewsletterForm() {
             >
               <input
                 type="email"
-                class="quantumWizTextinputPaperinputInput exportInput"
+                className="quantumWizTextinputPaperinputInput exportInput"
                 jsname="YPqjbf"
-                autocomplete="email"
+                autoComplete="email"
                 tabIndex="0"
                 aria-label="Your email"
                 name="emailAddress"
@@ -56,7 +56,7 @@ export default function NewsletterForm() {
                   jsname="ekGZBc"
                   value="I agree"
                   required
-                  class="checkbox"
+                  className="checkbox"
                 />
                 I would like to join the Real Good Touring newsletter.{" "}
               </label>
@@ -75,7 +75,7 @@ export default function NewsletterForm() {
       )}
       {submitted && (
         <div id="complete">
-          <div class="container">
+          <div className="container">
             <h2>Keep up to date!</h2>
             <p>Thank you for signing up to the Real Good Touring Newsletter</p>
           </div>

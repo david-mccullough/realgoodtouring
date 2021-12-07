@@ -5,7 +5,7 @@ import * as styles from "./covid.module.css";
 
 const CovidPage = () => {
   return (
-    <Layout className="Careers">
+    <Layout>
       <MetaTags title="COVID - Real Good Touring" />
 
       <section id="main" className={styles.main}>
