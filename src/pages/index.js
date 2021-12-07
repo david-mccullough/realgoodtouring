@@ -14,6 +14,7 @@ const IndexPage = ({
 }) => {
   const [isHeaderFixed, setIsHeaderFixed] = React.useState(false);
   React.useEffect(() => {
+    setIsHeaderFixed(window.scrollY > 200);
     window.addEventListener("scroll", () => {
       setIsHeaderFixed(window.scrollY > 200);
     });
@@ -53,7 +54,7 @@ const IndexPage = ({
           <a href="https://store.realgoodtouring.com">Store</a>
           <a href="#main">Upcoming Shows</a>
           <a href="covid">COVID</a>
-          <a href="produced-by-rgt">Produced by RGT</a>
+          <a href="productions">Produced by RGT</a>
           <a href="careers">Careers</a>
           <a href="#footer">Contact</a>
         </div>

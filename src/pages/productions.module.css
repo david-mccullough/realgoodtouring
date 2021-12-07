@@ -1,0 +1,123 @@
+.main {
+  padding-top: 130px;
+  padding-bottom: 60px;
+}
+.main h1 {
+  text-align: center;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  height: 0;
+  width: 0;
+  font-weight: 600;
+  font-size: 0;
+}
+
+.stage {
+  width: 100%;
+  margin: 0 auto;
+  height: 0;
+  padding-bottom: 60%;
+}
+.caption {
+  text-align: center;
+  width: 100%;
+  font-size: 22px;
+  font-weight: 300;
+  margin: 0 auto;
+  padding: 20px 10px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+.curtains {
+  position: relative;
+}
+.prev,
+.next {
+  width: 10%;
+  height: 0;
+  padding-bottom: 10%;
+  background: url(../images/next.svg) center center no-repeat;
+  position: absolute;
+  color: transparent;
+  font-size: 0;
+  top: 50%;
+  transform: translatey(-50%);
+  transition: all 0.25s ease;
+  opacity: 0.4;
+  cursor: pointer;
+}
+.prev:hover,
+.next:hover {
+  transform: translatey(-50%) scale(1.25);
+  opacity: 1;
+}
+.next {
+  right: 0;
+}
+.prev {
+  background: url(../images/prev.svg) center center no-repeat;
+  left: 0;
+}
+.stage img {
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+}
+.stage img:first-child {
+}
+.galleryGroups {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.galleryGroups a {
+  padding: 15px 20px;
+  margin: 0 5px;
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  display: block;
+  background-color: #303030;
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+.galleryGroups a:hover {
+  transform: scale(1.1);
+}
+@media only screen and (max-width: 600px) {
+  .galleryGroups {
+    display: block;
+  }
+  .caption {
+    font-size: 17px;
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+    height: 80px;
+  }
+  .galleryGroups a {
+    margin: 5px auto;
+  }
+  .main {
+    padding-top: 166px;
+    padding-bottom: 20px;
+  }
+  .stage {
+    padding-bottom: 79%;
+  }
+  .prev,
+  .next {
+    transform: translateY(20px);
+    top: 100%;
+  }
+  .prev:hover,
+  .next:hover {
+    transform: translatey(20px);
+    opacity: 1;
+  }
+}

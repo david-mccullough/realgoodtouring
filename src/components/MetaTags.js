@@ -2,7 +2,7 @@ import React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 import { Helmet } from "react-helmet";
 
-const MetaTags = ({ title }) => (
+const MetaTags = ({ title, children }) => (
   <Helmet>
     <meta charset="UTF-8" />
     <title>{title}</title>
@@ -47,6 +47,7 @@ const MetaTags = ({ title }) => (
       href="https://www.realgoodtouring.com/assets/images/favicon.png"
     ></link>
     <script src="scripts/cookie-consent.min.js"></script>
+    {children}
   </Helmet>
 );
 

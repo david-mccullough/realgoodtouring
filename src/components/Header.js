@@ -20,7 +20,7 @@ const Header = () => (
       <a href="https://store.realgoodtouring.com">Store</a>
       <a href="/#main">Upcoming Shows</a>
       <a href="covid">COVID</a>
-      <a href="produced-by-rgt">Produced by RGT</a>
+      <a href="productions">Produced by RGT</a>
       <a href="careers">Careers</a>
       <a href="/#footer">Contact</a>
     </div>

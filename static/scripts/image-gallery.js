@@ -10,7 +10,7 @@ var interval = null;
 
 var interact = false;
 
-$(".gallery-groups a").click(function () {
+$("#galleryGroups a").click(function () {
   clearInterval(interval);
   interact = true;
   var name = $(this).attr("id");
@@ -29,7 +29,7 @@ $(".gallery-groups a").click(function () {
   }, 450);
 });
 
-$(".next").click(function () {
+$("#next").click(function () {
   clearInterval(interval);
   interact = true;
   var nextimg = $("img.visible").next("img");
@@ -80,7 +80,7 @@ randomarray = randomFunc(randomarray);
 
 console.log(randomarray);
 
-$(".prev").click(function () {
+$("#prev").click(function () {
   clearInterval(interval);
   interact = true;
   var previmg = $("img.visible").prev("img");

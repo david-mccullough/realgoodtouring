@@ -3,7 +3,7 @@ import MetaTags from "../components/MetaTags";
 import Layout from "../components/Layout";
 import * as styles from "./covid.module.css";
 
-const CovidPage = () => {
+const CovddidPage = () => {
   return (
     <Layout>
       <MetaTags title="COVID - Real Good Touring" />
@@ -24,4 +24,4 @@ const CovidPage = () => {
     </Layout>
   );
 };
-export default CovidPage;
+export default CovddidPage;
