@@ -1,6 +1,7 @@
 ---
 title: ATSUKO PRESENTS HI
 Image: ../../static/img/atsuko.png
+liveTime: 2021-12-06T07:30:00.000Z
 events:
   - isSoldOut: false
     note: "*With guests Michael Ian Black, Guy Branum, and Sydnee Washington"
