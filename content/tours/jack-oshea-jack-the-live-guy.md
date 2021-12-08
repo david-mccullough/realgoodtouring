@@ -1,6 +1,6 @@
 ---
 title: "JACK O'SHEA: JACK THE LIVE GUY"
-Image: /img/jackthepoolboy.png
+Image: ../../static/img/jackthepoolboy.png
 events:
   - isSoldOut: false
     note: ""

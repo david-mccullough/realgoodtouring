@@ -1,6 +1,6 @@
 ---
 title: KATIE DUKE PRESENTS THE BAD DECISIONS TOUR
-Image: /img/katieduke.png
+Image: ../../static/img/katieduke.png
 events:
   - isSoldOut: true
     note: ""

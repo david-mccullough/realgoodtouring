@@ -1,6 +1,6 @@
 ---
 title: ATSUKO PRESENTS HI
-Image: /img/atsuko.png
+Image: ../../static/img/atsuko.png
 events:
   - isSoldOut: false
     note: "*With guests Michael Ian Black, Guy Branum, and Sydnee Washington"
