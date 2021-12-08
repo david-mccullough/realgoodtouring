@@ -5,7 +5,7 @@ import Footer from "./Footer";
 export default function Layout({ children }) {
   return (
     <>
-      <Header />
+      <Header isHeaderFixed={true} />
       {children}
       <Footer />
     </>

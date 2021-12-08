@@ -413,9 +413,9 @@ h2 {
   border-bottom: 2px solid white;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
   .nav a {
-    padding: 25px 15px;
+    padding: 25px 12px;
   }
 }
 

@@ -13,6 +13,7 @@ const IndexPage = ({
   data: {
     allMarkdownRemark: { edges },
   },
+  extensions,
 }) => {
   const [isHeaderFixed, setIsHeaderFixed] = React.useState(false);
   React.useEffect(() => {
@@ -94,7 +95,7 @@ export default IndexPage;
 
 export const AllToursJsonQuery = graphql`
   query AllToursQuery {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/(tours)/" } }) {
       edges {
         node {
           id

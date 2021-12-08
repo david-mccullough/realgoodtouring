@@ -5,6 +5,7 @@ import * as collapsibleStyles from "../components/Collapsible.module.css";
 const Collapsible = ({ outerText, children }) => {
   return (
     <CollapsibleModule
+      className={collapsibleStyles.collapsible}
       openedClassName={collapsibleStyles.collapsibleOpen}
       contentInnerClassName={collapsibleStyles.collapsibleInner}
       trigger={
@@ -12,6 +13,7 @@ const Collapsible = ({ outerText, children }) => {
           <h3 style={{ width: "100%" }}>{outerText}</h3>
           <img
             src="../img/expandArrow.svg"
+            alt="expand arrow"
             className={collapsibleStyles.caret}
             width={24}
           ></img>
