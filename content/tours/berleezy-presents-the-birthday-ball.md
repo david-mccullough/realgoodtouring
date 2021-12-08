@@ -1,6 +1,6 @@
 ---
 title: "BERLEEZY PRESENTS: THE BIRTHDAY BALL"
-Image: ""
+Image: ../../static/img/berleezy.png
 events:
   - isSoldOut: false
     note: ""
