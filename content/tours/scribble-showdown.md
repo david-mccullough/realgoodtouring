@@ -17,9 +17,9 @@ events:
   - isSoldOut: true
     note: "*New show added!"
     date: 2021-12-12T07:09:59.211Z
-    venueName: Detroit, MI
+    venueName: Royal Oak Music Hall
     ticketsLink: /
-    location: Royal Oak Music Hall
+    location: Detroit, MI
   - isSoldOut: true
     note: ""
     date: 2021-12-13T07:09:59.617Z
