@@ -58,7 +58,7 @@ const TourPreview = ({ entry, widgetFor, widgetsFor, getAsset }) => {
 
   let tour = {};
   tour.title = entry.getIn(["data", "title"]);
-  // tour.Image = getAsset(entry.getIn(["data", "Image"]));
+  tour.Image = entry.getIn(["data", "Image"]);
   tour.events = widgetsFor("events").map(function (show, index) {
     return {
       ticketsLink: show.getIn(["data", "ticketsLink"]),
