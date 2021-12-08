@@ -5,7 +5,7 @@ liveTime: 2021-12-03T07:30:00.000Z
 events:
   - isSoldOut: true
     note: ""
-    date: 2021-12-17T06:46:01.083Z
+    date: 2021-12-16
     location: Santa Ana, CA
     venueName: " The Yost Theater"
     ticketsLink: /
