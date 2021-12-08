@@ -12,7 +12,7 @@ collections:
     folder: "content/tours"
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - {
@@ -26,9 +26,9 @@ collections:
       - label: "Events"
         name: "events"
         widget: "list"
-        summary: "{{fields.location}} - {{fields.date}}"
+        summary: "{{date | date('MM/DD/YY')}} - {{fields.location}}"
         fields:
-          - { label: "Date", name: "date", widget: "datetime" }
+          - { label: "Date", name: "date", widget: "date" }
           - {
               label: "Location",
               name: "location",
