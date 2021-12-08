@@ -26,6 +26,7 @@ const Header = ({ isHeaderFixed, isHomePage }) => {
       <div className={"nav" + (isOpen ? " open" : "")}>
         <a href="https://store.realgoodtouring.com">Store</a>
         <a href={`${refStart}#main`}>Upcoming Shows</a>
+        <a href="/vip">VIP</a>
         <a href="/covid">COVID</a>
         <a href="/productions">Produced by RGT</a>
         <a href="/careers">Careers</a>

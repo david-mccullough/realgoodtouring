@@ -52,3 +52,17 @@ collections:
               widget: "string",
               hint: "e.g. *Venue Change",
             }
+  - name: "vip"
+    label: "VIP Q&A"
+    extension: "md"
+    folder: "content/vip"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - label: "Sections"
+        name: "sections"
+        widget: "list"
+        fields:
+          - { label: "Question", name: "question", widget: "string" }
+          - { label: "Answer", name: "answerMarkdown", widget: "markdown" }

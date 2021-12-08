@@ -10,19 +10,6 @@ const Tour = (props) => {
     ),
   ];
 
-  // let yearDictionary = years.reduce(
-  //   (a, x) => ({
-  //     ...a,
-  //     [x]: props.tour.events.filter((show) => {
-  //       console.log(new Date(show.date).getFullYear());
-  //       console.log(x);
-  //       console.log(new Date(show.date).getFullYear() == x);
-  //       return new Date(show.date).getFullYear() == x;
-  //     }),
-  //   }),
-  //   {}
-  // );
-
   let yearDictionary = years.reduce(
     (a, x) => ({
       ...a,
