@@ -1,6 +1,8 @@
 import React from "react";
-import * as dayjs from "dayjs";
 import * as styles from "./Tour.module.css";
+import * as dayjs from "dayjs";
+import dayjsPluginUTC from "dayjs-plugin-utc";
+dayjs.extend(dayjsPluginUTC);
 
 function Show(props) {
   return (

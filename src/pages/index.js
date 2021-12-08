@@ -7,6 +7,9 @@ import Tour from "./../components/Tour";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import NewsletterForm from "../components/NewsletterForm";
+import * as dayjs from "dayjs";
+import dayjsPluginUTC from "dayjs-plugin-utc";
+dayjs.extend(dayjsPluginUTC);
 
 // markup
 const IndexPage = ({
@@ -36,31 +39,33 @@ const IndexPage = ({
     });
   }, []);
 
-  let currentDate = new Date().toISOString();
+  let currentDate = dayjs();
 
   edges.forEach((edge) => {
-    edge.events = edge.node.frontmatter.events.sort(function (a, b) {
-      return new Date(a.date).toISOString() - new Date(b.date).toISOString();
+    edge.node.frontmatter.events.sort(function (a, b) {
+      return dayjs(a.date) - dayjs(b.date);
     });
-    edge.node.events = edge.node.frontmatter.events.filter(
-      (event) => new Date(event.date).toISOString() <= currentDate
+    edge.node.frontmatter.events = edge.node.frontmatter.events.filter(
+      (event) => dayjs(event.date) > currentDate
     );
   });
 
-  const Tours = edges
-    .filter(
-      (edge) =>
-        edge.node.frontmatter.events.length === 0 ||
-        new Date(edge.node.frontmatter.liveTime).toISOString() <= currentDate
-    ) // if all events have expired, filter out this tour OR we arent live yet
-    .map((edge) => <Tour key={edge.node.id} tour={edge.node.frontmatter} />)
-    .sort(function (a, b) {
-      return (
-        new Date(a.node.frontmatter.liveTime).toISOString() -
-        new Date(b.node.frontmatter.liveTime).toISOString()
-      );
-    });
+  // if all events have expired, filter out this tour OR we arent live yet
+  edges = edges.filter(
+    (edge) =>
+      edge.node.frontmatter.events.length > 0 &&
+      dayjs(edge.node.frontmatter.liveTime) < currentDate
+  );
 
+  edges.sort(function (a, b) {
+    return (
+      dayjs(b.node.frontmatter.liveTime) - dayjs(a.node.frontmatter.liveTime)
+    );
+  });
+
+  const Tours = edges.map((edge) => (
+    <Tour key={edge.node.id} tour={edge.node.frontmatter} />
+  ));
   return (
     <>
       <MetaTags title="Real Good Touring" />

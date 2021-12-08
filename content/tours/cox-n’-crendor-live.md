@@ -1,6 +1,7 @@
 ---
 title: COX N’ CRENDOR LIVE!
 Image: ../../static/img/coxcrendxmas.png
+liveTime: 2021-12-01T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""

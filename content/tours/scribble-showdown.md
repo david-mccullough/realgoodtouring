@@ -1,6 +1,7 @@
 ---
 title: SCRIBBLE SHOWDOWN
 Image: ../../static/img/scribble-2.png
+liveTime: 2021-11-26T07:30:00.000Z
 events:
   - isSoldOut: false
     note: "*New show added!"

@@ -1,6 +1,7 @@
 ---
 title: "JACKSFILMS PRESENTS: YIAY LIVE! LIVE!"
 Image: ../../static/img/jacksfilms2021.png
+liveTime: 2021-11-28T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""

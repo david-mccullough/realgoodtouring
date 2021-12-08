@@ -1,6 +1,7 @@
 ---
 title: I HAVE TO DO THIS SHOW
 Image: ../../static/img/havetodothisshow.png
+liveTime: 2021-12-02T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""

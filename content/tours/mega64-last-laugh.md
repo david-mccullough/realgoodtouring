@@ -1,6 +1,7 @@
 ---
 title: "MEGA64: LAST LAUGH"
 Image: ../../static/img/mega64.png
+liveTime: 2021-11-29T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""

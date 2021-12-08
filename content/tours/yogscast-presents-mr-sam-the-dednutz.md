@@ -1,6 +1,7 @@
 ---
 title: "YOGSCAST PRESENTS: MR. SAM & THE DEDNUTZ"
 Image: ../../static/img/sam2022.png
+liveTime: 2021-11-25T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""

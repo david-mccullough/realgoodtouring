@@ -1,6 +1,7 @@
 ---
 title: "JACK O'SHEA: JACK THE LIVE GUY"
 Image: ../../static/img/jackthepoolboy.png
+liveTime: 2021-12-05T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""
