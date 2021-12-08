@@ -48,8 +48,18 @@ const IndexPage = ({
   });
 
   const Tours = edges
-    //.filter((edge) => edge.node.events.length === 0) // if all events have expired, filter out this tour
-    .map((edge) => <Tour key={edge.node.id} tour={edge.node.frontmatter} />);
+    .filter(
+      (edge) =>
+        edge.node.frontmatter.events.length === 0 ||
+        new Date(edge.node.frontmatter.liveTime).toISOString() <= currentDate
+    ) // if all events have expired, filter out this tour OR we arent live yet
+    .map((edge) => <Tour key={edge.node.id} tour={edge.node.frontmatter} />)
+    .sort(function (a, b) {
+      return (
+        new Date(a.node.frontmatter.liveTime).toISOString() -
+        new Date(b.node.frontmatter.liveTime).toISOString()
+      );
+    });
 
   return (
     <>
@@ -78,14 +88,14 @@ const IndexPage = ({
           <ul className="date-list">{Tours}</ul>
         </div>
       </section>
-      {/* TODO REMOVE COMMENTS !!!!!!!!!!!!!!!!! <noscript>
+      <noscript>
         <img
           src="https://ws.zoominfo.com/pixel/lwayZkuFnM9h0qAjqkut"
           width="1"
           height="1"
-          style={{display: "none";}}
+          style={{ display: "none" }}
         />
-      </noscript> */}
+      </noscript>
       <NewsletterForm />
       <Footer />
     </>
@@ -111,6 +121,7 @@ export const AllToursJsonQuery = graphql`
                 )
               }
             }
+            liveTime
             events {
               ticketsLink
               date

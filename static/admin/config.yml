@@ -23,6 +23,12 @@ collections:
           required: false,
           default: "",
         }
+      - {
+          label: "Go-live Time",
+          name: "liveTime",
+          widget: "datetime",
+          hint: "UTC standard",
+        }
       - label: "Events"
         name: "events"
         widget: "list"
