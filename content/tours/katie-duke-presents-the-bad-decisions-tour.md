@@ -4,13 +4,13 @@ Image: /img/katieduke.png
 events:
   - isSoldOut: true
     note: ""
-    date: 2022-01-22T05:37:44.409Z
+    date: 2022-01-22
     location: New York, NY
     venueName: The Caveat
     ticketsLink: /
   - isSoldOut: false
     note: ""
-    date: 2022-01-24T05:38:20.113Z
+    date: 2022-01-24
     location: Los Angeles, CA
     venueName: The Avalon
     ticketsLink: https://www.seetickets.us/event/Bad-Decisions-with-Katie-Duke/450650
