@@ -9,27 +9,27 @@ html {
 }
 
 @font-face {
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   src: url("../fonts/GreycliffCF-Bold.eot");
   src: url("../fonts/GreycliffCF-Bold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   src: url("../fonts/GreycliffCF-Heavy.eot");
   src: url("../fonts/GreycliffCF-Heavy.woff") format("woff");
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   src: url("../fonts/GreycliffCF-DemiBold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   src: url("../fonts/GreycliffCF-Regular.eot");
   src: url("../fonts/GreycliffCF-Regular.woff") format("woff");
   font-weight: 200;
@@ -631,7 +631,7 @@ a {
   background: #10a681;
   border-radius: 21.24px;
   padding: 20px 20px 25px 20px;
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   font-weight: 600;
   font-size: 26.5px;
   color: #ffffff;
@@ -649,7 +649,7 @@ a {
   background: #2a2930;
   border: 2px solid #48474d;
   border-radius: 16px;
-  font-family: "Greycliff";
+  font-family: "Greycliff", sans-serif;
   font-size: 23px;
   color: #ffffff;
   letter-spacing: 1.41px;
