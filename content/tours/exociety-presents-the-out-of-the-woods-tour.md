@@ -1,5 +1,5 @@
 ---
-title: Exociety Presents The Out of the Woods Tour
+title: "Exociety Presents: The Out of the Woods Tour"
 Image: ../../static/img/exociety.jpg
 liveTime: 2021-12-08T08:51:29.161Z
 events:
@@ -139,7 +139,7 @@ events:
     date: 2022-04-25T07:00:00.000Z
     ticketsLink: https://www.ticketweb.com/event/the-out-of-the-woods-middle-east-upstairs-tickets/11526755?pl=mideastclub
     location: Boston, MA
-    venueName: Middle East Upstairs
+    venueName: Middle East Downstairs
   - isSoldOut: false
     note: ""
     date: 2022-04-26T07:00:00.000Z
@@ -150,7 +150,7 @@ events:
     note: ""
     date: 2022-04-27T07:00:00.000Z
     ticketsLink: https://killbillrav042721.eventbrite.com/
-    venueName: Kung Fu Necktie
+    venueName: First Unitarian Church
     location: Philadelphia, PA
   - isSoldOut: true
     note: ""
