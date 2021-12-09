@@ -27,7 +27,8 @@ collections:
           label: "Go-live Time",
           name: "liveTime",
           widget: "datetime",
-          hint: "UTC standard",
+          picker_utc: true,
+          hint: "UTC standard (tours are sorted based on this field)",
         }
       - label: "Events"
         name: "events"
