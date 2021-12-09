@@ -9,27 +9,27 @@ html {
 }
 
 @font-face {
-  font-family: "Greycliff", sans-serif;
+  font-family: "Greycliff";
   src: url("../fonts/GreycliffCF-Bold.eot");
   src: url("../fonts/GreycliffCF-Bold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff", sans-serif;
+  font-family: "Greycliff";
   src: url("../fonts/GreycliffCF-Heavy.eot");
   src: url("../fonts/GreycliffCF-Heavy.woff") format("woff");
   font-weight: 800;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff", sans-serif;
+  font-family: "Greycliff";
   src: url("../fonts/GreycliffCF-DemiBold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: "Greycliff", sans-serif;
+  font-family: "Greycliff";
   src: url("../fonts/GreycliffCF-Regular.eot");
   src: url("../fonts/GreycliffCF-Regular.woff") format("woff");
   font-weight: 200;
