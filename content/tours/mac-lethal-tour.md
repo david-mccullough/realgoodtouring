@@ -40,23 +40,23 @@ events:
     venueName: Red Moon
     ticketsLink: /
   - isSoldOut: false
-    note: "with Epic Lloyd"
+    note: with Epic Lloyd
     date: 2022-02-12T07:00:00.000Z
     location: San Diego, CA
     venueName: Soda Bar
     ticketsLink: https://link.dice.fm/O35ca6d352ed
   - isSoldOut: false
-    note: "with Epic Lloyd"
+    note: with Epic Lloyd
     date: 2022-02-14T07:00:00.000Z
     location: Costa Mesa, CA
     venueName: The Wayfarer
     ticketsLink: https://www.eventbrite.com/e/223650824637
   - isSoldOut: false
-    note: "with Epic Lloyd"
+    note: with Epic Lloyd
     date: 2022-02-15T07:00:00.000Z
     location: San Francisco, CA
     venueName: Brick & Mortar
-    ticketsLink: /
+    ticketsLink: https://www.ticketweb.com/event/mac-lethal-brick-and-mortar-music-hall-tickets/11622775
   - isSoldOut: false
     note: ""
     date: 2022-02-16T07:00:00.000Z
@@ -146,7 +146,7 @@ events:
     date: 2022-04-11T07:00:00.000Z
     location: Madison, WI
     venueName: High Noon Saloon
-    ticketsLink: /
+    ticketsLink: https://www.ticketmaster.com/event/07005B87FE6B607E
   - isSoldOut: false
     note: ""
     date: 2022-04-12T07:00:00.000Z
@@ -197,6 +197,12 @@ events:
     ticketsLink: https://www.etix.com/ticket/p/3604261/mac-lethal-baltimore-the-metro-gallery
   - isSoldOut: false
     note: ""
+    date: 2022-04-22T20:32:50.359Z
+    ticketsLink: https://bit.ly/MacLeathal4-22
+    location: Richmond, VA
+    venueName: The Camel
+  - isSoldOut: false
+    note: ""
     date: 2022-04-25T07:00:00.000Z
     location: Atlanta, GA
     venueName: "529"
@@ -205,36 +211,36 @@ events:
     note: ""
     date: 2022-04-26T07:00:00.000Z
     location: Orlando, FL
-    venueName: "Will's Pub"
+    venueName: Will's Pub
     ticketsLink: https://maclethalorlando.eventbrite.com
   - isSoldOut: false
     note: ""
     date: 2022-04-27T07:00:00.000Z
     location: Tampa, FL
-    venueName: "Crowbar"
+    venueName: Crowbar
     ticketsLink: https://maclethaltampa.eventbrite.com
   - isSoldOut: false
     note: ""
     date: 2022-04-29T07:00:00.000Z
     location: New Orleans, LA
-    venueName: "Poor Boys"
+    venueName: Poor Boys
     ticketsLink: /
   - isSoldOut: false
     note: ""
     date: 2022-04-30T07:00:00.000Z
     location: Nashville, TN
-    venueName: "The End"
+    venueName: The End
     ticketsLink: /
   - isSoldOut: false
     note: ""
     date: 2022-05-04T07:00:00.000Z
     location: St Louis, MO
-    venueName: "Old Rock House"
+    venueName: Old Rock House
     ticketsLink: https://www.etix.com/ticket/p/8471921/mac-lethal-stlouis-red-flag-mjp
   - isSoldOut: false
     note: ""
     date: 2022-05-06T07:00:00.000Z
     location: Kansas City, MO
-    venueName: "recordBAR"
+    venueName: recordBAR
     ticketsLink: https://app.showslinger.com/ticket_payment/2881/preview_ticket
 ---
