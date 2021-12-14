@@ -11,6 +11,8 @@ import * as dayjs from "dayjs";
 import dayjsPluginUTC from "dayjs-plugin-utc";
 dayjs.extend(dayjsPluginUTC);
 
+let Tours = [];
+
 // markup
 const IndexPage = ({
   data: {
@@ -37,35 +39,37 @@ const IndexPage = ({
         });
       });
     });
+
+    // tours
+    let currentDate = dayjs();
+
+    edges.forEach((edge) => {
+      edge.node.frontmatter.events.sort(function (a, b) {
+        return dayjs(a.date) - dayjs(b.date);
+      });
+      edge.node.frontmatter.events = edge.node.frontmatter.events.filter(
+        (event) => dayjs(event.date) > currentDate
+      );
+    });
+
+    // if all events have expired, filter out this tour OR we arent live yet
+    edges = edges.filter(
+      (edge) =>
+        edge.node.frontmatter.events.length > 0 &&
+        dayjs(edge.node.frontmatter.liveTime) < currentDate
+    );
+
+    edges.sort(function (a, b) {
+      return (
+        dayjs(b.node.frontmatter.liveTime) - dayjs(a.node.frontmatter.liveTime)
+      );
+    });
+
+    Tours = edges.map((edge) => (
+      <Tour key={edge.node.id} tour={edge.node.frontmatter} />
+    ));
   }, []);
 
-  let currentDate = dayjs();
-
-  edges.forEach((edge) => {
-    edge.node.frontmatter.events.sort(function (a, b) {
-      return dayjs(a.date) - dayjs(b.date);
-    });
-    edge.node.frontmatter.events = edge.node.frontmatter.events.filter(
-      (event) => dayjs(event.date) > currentDate
-    );
-  });
-
-  // if all events have expired, filter out this tour OR we arent live yet
-  edges = edges.filter(
-    (edge) =>
-      edge.node.frontmatter.events.length > 0 &&
-      dayjs(edge.node.frontmatter.liveTime) < currentDate
-  );
-
-  edges.sort(function (a, b) {
-    return (
-      dayjs(b.node.frontmatter.liveTime) - dayjs(a.node.frontmatter.liveTime)
-    );
-  });
-
-  const Tours = edges.map((edge) => (
-    <Tour key={edge.node.id} tour={edge.node.frontmatter} />
-  ));
   return (
     <>
       <MetaTags title="Real Good Touring" />
