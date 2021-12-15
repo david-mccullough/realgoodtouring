@@ -86,7 +86,7 @@ events:
     date: 2022-02-22T07:00:00.000Z
     location: Moscow, ID
     venueName: John's Alley
-    ticketsLink: https://www.eventbrite.com/e/mac-lethal-tickets-222380053727
+    ticketsLink: https://www.brownpapertickets.com/event/5328345
   - isSoldOut: false
     note: ""
     date: 2022-02-23T07:00:00.000Z
