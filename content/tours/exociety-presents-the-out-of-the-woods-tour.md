@@ -113,7 +113,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 2022-04-18T07:00:00.000Z
-    location: Chicao, IL
+    location: Chicago, IL
     venueName: SubT
     ticketsLink: https://www.ticketweb.com/event/the-out-of-the-woods-subterranean-tickets/11453925?pl=kickstand
   - isSoldOut: false
