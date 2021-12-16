@@ -161,7 +161,7 @@ events:
   - isSoldOut: true
     note: ""
     date: 2022-04-28T07:00:00.000Z
-    location: Washignton, DC
+    location: Washington, DC
     venueName: Pie Shop
     ticketsLink: https://www.etix.com/ticket/p/2979701/exociety-presentsthe-out-of-the-woods-tour-featrav-kill-bill-scuare-airospace-washington-pie-shop
 ---
