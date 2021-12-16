@@ -94,6 +94,12 @@ events:
     ticketsLink: https://bit.ly/OutOfTheWoodsCervs
   - isSoldOut: false
     note: ""
+    date: 2022-04-13T18:40:14.725Z
+    location: Omaha, NE
+    venueName: Slowdown
+    ticketsLink: https://wl.seetickets.us/event/The-OutOfTheWoodsTour/459346?afflky=Slowdown
+  - isSoldOut: false
+    note: ""
     date: 2022-04-15T07:00:00.000Z
     location: Minneapolis, MN
     venueName: 7th St Entry
