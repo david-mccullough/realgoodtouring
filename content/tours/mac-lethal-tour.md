@@ -230,7 +230,7 @@ events:
     date: 2022-04-30T07:00:00.000Z
     location: Nashville, TN
     venueName: The End
-    ticketsLink: /
+    ticketsLink: https://www.etix.com/ticket/p/5398525/mac-lethal-wferal-the-earthworm-18-nashville-the-end?cobrand=theend&partner_id=240
   - isSoldOut: false
     note: ""
     date: 2022-05-04T07:00:00.000Z
