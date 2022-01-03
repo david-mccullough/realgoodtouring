@@ -4,12 +4,6 @@ Image: ../../static/img/atsuko.png
 liveTime: 2021-12-06T07:30:00.000Z
 events:
   - isSoldOut: false
-    note: "*With guests Michael Ian Black, Guy Branum, and Sydnee Washington"
-    date: 2022-01-07
-    location: "San Francisco, CA "
-    venueName: " SF Sketchfest"
-    ticketsLink: https://sfsketchfest2022.sched.com/event/qEL1/atsuko-friends
-  - isSoldOut: false
     note: ""
     date: 2022-01-11
     location: "San Diego, CA "
