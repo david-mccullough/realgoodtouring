@@ -1,5 +1,5 @@
 ---
-title: MAC LETHAL TOUR
+title: MAC LETHAL
 Image: ../../static/img/mac-lethal.jpg
 liveTime: 2021-12-09T17:38:25.596Z
 events:
@@ -224,7 +224,7 @@ events:
     date: 2022-04-29T07:00:00.000Z
     location: New Orleans, LA
     venueName: Poor Boys
-    ticketsLink: /
+    ticketsLink: https://holdmyticket.com/event/387625
   - isSoldOut: false
     note: ""
     date: 2022-04-30T07:00:00.000Z
