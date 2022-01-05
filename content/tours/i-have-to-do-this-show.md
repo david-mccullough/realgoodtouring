@@ -63,7 +63,7 @@ events:
     location: Iowa City, IA
     venueName: Englert Theatre
     ticketsLink: https://bit.ly/3u3SYOw
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 2022-04-03
     location: Raleigh, NC
