@@ -5,24 +5,6 @@ liveTime: 2021-11-30T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""
-    date: 2022-01-07
-    location: Dallas, TX
-    venueName: Deep Ellum
-    ticketsLink: https://www.prekindle.com/event/77184-twrp-dallas
-  - isSoldOut: false
-    note: ""
-    date: 2022-01-08
-    location: Austin, TX
-    venueName: The Parish
-    ticketsLink: https://www.prekindle.com/promo/id/531433527852823274
-  - isSoldOut: false
-    note: ""
-    date: 2022-01-09
-    location: Houston, TX
-    venueName: White Oak Music Hall - Upstairs
-    ticketsLink: https://wl.seetickets.us/event/TWRP/441998?afflky=WhiteOakMusicHall
-  - isSoldOut: false
-    note: ""
     date: 2022-01-13
     location: Costa Mesa, CA
     venueName: Wayfarer
@@ -69,4 +51,22 @@ events:
     location: Seattle, WA
     venueName: Neumos
     ticketsLink: https://www.axs.com/events/411120/twrp-tickets?skin=neumos
+  - isSoldOut: false
+    note: ""
+    date: 2022-03-08T08:00:00.000Z
+    location: Houston, TX
+    venueName: White Oak Music Hall - Upstairs
+    ticketsLink: https://wl.seetickets.us/event/TWRP/441998?afflky=WhiteOakMusicHall
+  - isSoldOut: false
+    note: ""
+    date: 2022-03-10T08:00:00.000Z
+    location: Austin, TX
+    venueName: The Parish
+    ticketsLink: https://www.prekindle.com/promo/id/531433527852823274
+  - isSoldOut: false
+    note: ""
+    date: 2022-03-12T08:00:00.000Z
+    location: Dallas, TX
+    venueName: Deep Ellum
+    ticketsLink: https://www.prekindle.com/event/77184-twrp-dallas
 ---
