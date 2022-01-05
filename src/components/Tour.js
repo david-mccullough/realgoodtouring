@@ -8,19 +8,27 @@ dayjs.extend(dayjsPluginUTC);
 
 const Tour = (props) => {
   let years = [
-    ...new Set(props.tour.events.map((show) => new dayjs(show.date).year())),
+    ...new Set(
+      props.tour.events.map((show) => {
+        if (show.date) return new dayjs(show.date).year();
+        else return 2022;
+      })
+    ),
   ];
 
   let yearDictionary = years.reduce(
     (a, x) => ({
       ...a,
       [x]: props.tour.events.filter((show) => {
-        return new dayjs(show.date).year() == x;
+        if (show.date) return new dayjs(show.date).year() == x;
+        else if (x === 2022) return true;
+        else return false;
       }),
     }),
     {}
   );
 
+  let key = 0;
   return (
     <li className={styles.item}>
       <div className="poster">
@@ -41,7 +49,7 @@ const Tour = (props) => {
             <ul>
               {yearDictionary[year].map((show) => (
                 <Show
-                  key={show.date}
+                  key={key++}
                   ticketsLink={show.ticketsLink}
                   venueName={show.venueName}
                   date={show.date}

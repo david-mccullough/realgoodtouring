@@ -45,10 +45,14 @@ const IndexPage = ({
 
     edges.forEach((edge) => {
       edge.node.frontmatter.events.sort(function (a, b) {
-        return dayjs(a.date) - dayjs(b.date);
+        if (!a.date || !b.date) return 0;
+        else return dayjs(a.date) - dayjs(b.date);
       });
       edge.node.frontmatter.events = edge.node.frontmatter.events.filter(
-        (event) => dayjs(event.date) > currentDate
+        (event) => {
+          if (!event.date) return true;
+          else return dayjs(event.date) > currentDate;
+        }
       );
     });
 

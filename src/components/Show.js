@@ -8,7 +8,9 @@ function Show(props) {
   return (
     <li className={styles.item}>
       <div className="event-info">
-        <time>{dayjs(props.date).format("ddd M/D")}</time>
+        <time>
+          {(!props.date && "TBA") || dayjs(props.date).format("ddd M/D")}
+        </time>
         <address>
           {props.location} <span className="bullet">|</span> {props.venueName}
           {props.note && props.note != "" && (
