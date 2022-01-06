@@ -68,5 +68,5 @@ events:
     date: 2022-03-12T08:00:00.000Z
     location: Dallas, TX
     venueName: Deep Ellum
-    ticketsLink: https://www.prekindle.com/event/77184-twrp-dallas
+    ticketsLink: https://www.prekindle.com/event/78845-twrp-with-support-from-rich-aucoin-dallas
 ---
