@@ -62,7 +62,7 @@ events:
     date: 2022-03-10T08:00:00.000Z
     location: Austin, TX
     venueName: The Parish
-    ticketsLink: https://www.prekindle.com/promo/id/531433527852823274
+    ticketsLink: https://www.prekindle.com/promo/id/531433528120971365
   - isSoldOut: false
     note: ""
     date: 2022-03-12T08:00:00.000Z
