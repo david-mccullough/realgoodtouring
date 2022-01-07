@@ -24,7 +24,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 2022-02-09T07:00:00.000Z
-    location: Pheonix, AZ
+    location: Phoenix, AZ
     venueName: Rebel Lounge
     ticketsLink: https://wl.seetickets.us/event/MAC-LETHAL/457790?afflky=TheRebelLounge
   - isSoldOut: false
