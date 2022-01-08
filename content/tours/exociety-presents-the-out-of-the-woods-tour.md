@@ -7,7 +7,7 @@ events:
     location: Atlanta, GA
     venueName: Aisle 5
     ticketsLink: https://seetickets.us/ravkillbilla5
-    isSoldOut: false
+    isSoldOut: true
   - date: 2022-03-23
     ticketsLink: https://otwtampa.eventbrite.com/
     venueName: Crowbar
