@@ -5,7 +5,7 @@ liveTime: 2021-12-14T18:00:45.382Z
 events:
   - isSoldOut: false
     note: ""
-    date: 2022-03-12T00:05:45.429Z
+    date: 2022-03-11T00:05:45.429Z
     location: Los Angeles, CA
     venueName: Dynasty Typewriter
     ticketsLink: https://www.dynastytypewriter.com/events-calendar?loxi_pathname=%2Folivia-gatwood-safia-elhillo-1920

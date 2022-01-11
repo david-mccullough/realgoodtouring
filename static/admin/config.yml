@@ -35,7 +35,14 @@ collections:
         widget: "list"
         summary: "{{date | date('MM/DD/YY')}} - {{fields.location}}"
         fields:
-          - { label: "Date", name: "date", widget: "date", required: false }
+          - {
+              label: "Date",
+              name: "date",
+              widget: "datetime",
+              required: false,
+              format: "MM/DD/YY",
+              picker_utc: true,
+            }
           - {
               label: "Location",
               name: "location",
