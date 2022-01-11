@@ -69,4 +69,10 @@ events:
     location: Dallas, TX
     venueName: Deep Ellum
     ticketsLink: https://www.prekindle.com/event/78845-twrp-with-support-from-rich-aucoin-dallas
+  - isSoldOut: false
+    note: ""
+    date: 2022-04-18T17:07:00.276Z
+    location: Tucson, AZ
+    venueName: 191 Toole
+    ticketsLink: https://www.ticketmaster.com/twrp-191-toole-tucson-arizona-01-11-2022/event/19005B1AF2AD2CD7?camefrom=cfc_toole_220111show&brand=toole
 ---
