@@ -75,4 +75,10 @@ events:
     location: Tucson, AZ
     venueName: 191 Toole
     ticketsLink: https://www.ticketmaster.com/twrp-191-toole-tucson-arizona-01-11-2022/event/19005B1AF2AD2CD7?camefrom=cfc_toole_220111show&brand=toole
+  - isSoldOut: false
+    note: ""
+    date: 2022-03-11T18:07:58.354Z
+    location: San Antonio, TX
+    venueName: Paper Tiger
+    ticketsLink: https://www.seetickets.us/event/TWRP/462514
 ---
