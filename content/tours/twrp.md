@@ -1,9 +1,9 @@
 ---
 title: TWRP
-Image: ../../static/img/twrp-2021.png
+Image: ../../static/img/twrp_newandimproved2022_instagramsquare_pg2_updated.png
 liveTime: 2021-11-30T07:30:00.000Z
 events:
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 2022-03-08T08:00:00.000Z
     location: Houston, TX
@@ -63,7 +63,7 @@ events:
     location: San Francisco, CA
     venueName: Rickshaw Stop
     ticketsLink: https://wl.seetickets.us/event/TWRP/441602?afflky=RickshawStop
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 2022-04-26T07:00:00.000Z
     location: Portland, OR
