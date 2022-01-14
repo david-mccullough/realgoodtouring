@@ -55,7 +55,7 @@ events:
     date: 04/02/22
     location: Santa Ana, CA
     venueName: Constellation Room
-    ticketsLink: https://concerts.livenation.com/the-out-of-the-woods-tour-santa-ana-california-04/02-2022/event/09005B6CD72F5DB3
+    ticketsLink: https://concerts.livenation.com/the-out-of-the-woods-tour-santa-ana-california-04-02-2022/event/09005B6CD72F5DB3
   - isSoldOut: false
     note: ""
     date: 04/04/22
@@ -121,7 +121,7 @@ events:
     date: 04/19/22
     location: Ann Arbor, MI
     venueName: Blind Pig
-    ticketsLink: https://www.audiotreepresents.com/shows/04/19-rav-kill-bill
+    ticketsLink: https://www.audiotreepresents.com/shows/04-19-2022-rav-kill-bill
   - isSoldOut: false
     note: ""
     date: 04/20/22
