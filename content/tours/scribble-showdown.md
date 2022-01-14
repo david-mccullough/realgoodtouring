@@ -5,61 +5,61 @@ liveTime: 2021-11-26T07:30:00.000Z
 events:
   - isSoldOut: false
     note: "*New show added!"
-    date: 2021-12-09T07:09:58.299Z
+    date: 12/09/21
     location: Cleveland, OH
     venueName: The Agora
     ticketsLink: https://www.axs.com/events/400504/scribble-showdown-tickets
   - isSoldOut: false
     note: ""
-    date: 2021-12-10T07:09:58.794Z
+    date: 12/10/21
     location: Brooklyn, NY
     venueName: Kings Theatre
     ticketsLink: https://www.ticketmaster.com/event/30005855E05A2738
   - isSoldOut: true
     note: "*New show added!"
-    date: 2021-12-12T07:09:59.211Z
+    date: 12/12/21
     venueName: Royal Oak Music Hall
     ticketsLink: /
     location: Detroit, MI
   - isSoldOut: true
     note: ""
-    date: 2021-12-13T07:09:59.617Z
+    date: 12/13/21
     venueName: Queen Elizabeth Theatre
     location: Toronto
     ticketsLink: /
   - isSoldOut: true
     note: ""
-    date: 2022-04-15T07:09:59.979Z
+    date: 04/15/22
     location: London
     venueName: Indigo at the O2
     ticketsLink: /
   - isSoldOut: false
     note: ""
-    date: 2022-04-16T07:12:36.569Z
+    date: 04/16/22
     location: Amsterdam
     venueName: Rai Theater
     ticketsLink: https://www.ticketmaster.nl/event/277087
   - isSoldOut: false
     note: ""
-    date: 2022-04-18T07:00:00.000Z
+    date: 04/18/22
     venueName: China Teatern
     ticketsLink: https://secure.tickster.com/yp84d459ldf59jx?c=ty9d4lf
     location: Stockholm
   - isSoldOut: false
     note: ""
-    date: 2022-04-19T07:00:00.000Z
+    date: 04/19/22
     location: Oslo
     venueName: Folketeateret
     ticketsLink: https://folketeateret.eventim-billetter.no/webshop/webticket/shop?event=969
   - isSoldOut: false
     note: ""
-    date: 2022-04-21T07:00:00.000Z
+    date: 04/21/22
     location: Dublin
     venueName: The Helix
     ticketsLink: https://thehelix.ie/what-s-on/all-events/scribble-showdown/
   - isSoldOut: false
     note: ""
-    date: 2022-04-24T07:00:00.000Z
+    date: 04/24/22
     location: Edinburgh
     venueName: Usher Hall
     ticketsLink: https://www.usherhall.co.uk/whats-on/scribble-showdown

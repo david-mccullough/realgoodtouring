@@ -5,7 +5,7 @@ liveTime: 2021-11-27T07:30:00.000Z
 events:
   - isSoldOut: true
     note: ""
-    date: 2021-12-12T07:16:42.949Z
+    date: 12/12/21
     location: "Chicago, IL "
     venueName: Park West
     ticketsLink: /

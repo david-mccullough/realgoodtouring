@@ -5,7 +5,7 @@ liveTime: 2021-12-06T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""
-    date: 2022-01-30
+    date: 01/30/22
     ticketsLink: https://www.etix.com/ticket/p/2845406/atsuko-okatsuka-denver-globe-hall
     location: "Denver, CO "
     venueName: " Globe Hall"

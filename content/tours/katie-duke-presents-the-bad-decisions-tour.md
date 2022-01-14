@@ -5,13 +5,13 @@ liveTime: 2021-12-06T07:30:00.000Z
 events:
   - isSoldOut: true
     note: ""
-    date: 2022-01-21
+    date: 01/21/21
     location: New York, NY
     venueName: The Caveat
     ticketsLink: /
   - isSoldOut: false
     note: ""
-    date: 2022-01-23
+    date: 01/23/21
     location: Los Angeles, CA
     venueName: The Avalon
     ticketsLink: https://www.seetickets.us/event/Bad-Decisions-with-Katie-Duke/450650
