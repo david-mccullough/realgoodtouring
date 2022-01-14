@@ -4,110 +4,110 @@ Image: ../../static/img/gusjohnson.png
 liveTime: 2021-12-04T07:30:00.000Z
 events:
   - isSoldOut: false
-    note: ""
-    date: 01/12/22
+    note: "*Postponed"
+    date: ""
     location: Fort Lauderdale, FL
     venueName: Parker Playhouse
     ticketsLink: https://www.ticketmaster.com/event/0D005B4190B8AEF6?brand=parkerph
   - isSoldOut: false
-    note: ""
-    date: 01/13/22
+    note: "*Postponed"
+    date: ""
     location: Orlando, FL
     venueName: Plaza Live
     ticketsLink: https://www.axs.com/events/414176/gus-johnson-tickets
   - isSoldOut: false
-    note: ""
-    date: 01/16/22
+    note: "*Postponed"
+    date: ""
     location: Atlanta, GA
     venueName: Variety Playhouse
     ticketsLink: https://www.axs.com/events/413755/gus-johnson-tickets
   - isSoldOut: false
-    note: ""
-    date: 01/17/22
+    note: "*Postponed"
+    date: ""
     location: Nashville, TN
     venueName: Cannery Ballroom
     ticketsLink: https://www.eventbrite.com/e/gus-johnson-here-i-come-tickets-176650485357?aff=artist
   - isSoldOut: false
-    note: ""
-    date: 01/18/22
+    note: "*Postponed"
+    date: ""
     location: Birmingham, AL
     venueName: Lyric Theatre
     ticketsLink: https://www.ticketmaster.com/event/20005B379BC1A26F
   - isSoldOut: false
-    note: ""
-    date: 01/19/22
-    location: New Orleans, LA
-    venueName: Civic Theatre
-    ticketsLink: https://www.eventbrite.com/e/gus-johnson-here-i-come-tickets-138971203611
-  - isSoldOut: false
-    note: ""
-    date: 01/21/22
+    note: "*Postponed"
+    date: ""
     location: Dallas, TX
     venueName: Bomb Factory
     ticketsLink: https://www.axs.com/events/414022/gus-johnson-tickets
   - isSoldOut: false
-    note: ""
-    date: 01/22/22
+    note: "*Postponed"
+    date: ""
+    location: New Orleans, LA
+    venueName: Civic Theatre
+    ticketsLink: https://www.eventbrite.com/e/gus-johnson-here-i-come-tickets-138971203611
+  - isSoldOut: false
+    note: "*Postponed"
+    date: ""
     location: Houston, TX
     venueName: Zilkha Hall
     ticketsLink: https://my.thehobbycenter.org/5087/5089#
   - isSoldOut: false
-    note: ""
-    date: 01/23/22
+    note: "*Postponed"
+    date: ""
     location: Austin, TX
     venueName: Paramount Theatre
     ticketsLink: https://tickets.austintheatre.org/7328/7329
   - isSoldOut: false
-    note: ""
-    date: 02/07/22
+    note: "*Postponed"
+    date: ""
     location: Vancouver, BC
     venueName: Vancouver Playhouse
     ticketsLink: https://www.ticketmaster.ca/event/11005B36A40F21FC#
   - isSoldOut: false
-    note: ""
-    date: 02/08/22
+    note: "*Postponed"
+    date: ""
     location: Seattle, WA
     venueName: Neptune Theatre
     ticketsLink: https://www.ticketmaster.com/event/0F005B37C5A62B84#
   - isSoldOut: false
-    note: ""
-    date: 02/09/22
+    note: "*Postponed"
+    date: ""
     location: Portland, OR
     venueName: Revolution Hall
     ticketsLink: https://www.etix.com/ticket/p/5849961/gus-johnsonhere-i-come-portland-revolution-hall#
   - isSoldOut: false
-    note: ""
-    date: 02/11/22
+    note: "*Postponed"
+    date: ""
     location: Sacramento, CA
     venueName: Crest Theatre
     ticketsLink: https://www.eventbrite.com/e/gus-johnson-here-i-come-tickets-176675911407?aff=affiliate1#
   - isSoldOut: false
-    note: ""
-    date: 02/12/22
+    note: "*Postponed"
+    date: ""
     location: Santa Cruz, CA
     venueName: Rio Theatre
     ticketsLink: https://www.axs.com/events/413673/gus-johnson-here-i-come-tickets#
   - isSoldOut: false
-    note: ""
-    date: 02/15/22
+    note: "*Postponed"
+    date: ""
     location: San Francisco, CA
     venueName: Palace of Fine Arts
     ticketsLink: https://www.axs.com/events/413681/gus-johnson-here-i-come-tickets
   - isSoldOut: false
-    note: ""
-    date: 02/17/22
+    note: "*Postponed"
+    date: ""
     location: San Luis Obispo, CA
     venueName: Harold Miossi Performing Arts Centre
     ticketsLink: https://pacslo.org/online/article/gusjohnson22
   - isSoldOut: false
-    note: ""
-    date: 02/18/22
+    note: "*Postponed"
+    date: ""
     location: San Diego, CA
     venueName: Balboa Theatre
     ticketsLink: https://www.ticketmaster.com/event/0A005B37B2F137E1#
   - isSoldOut: false
-    note: ""
-    date: 02/19/22
+    note: "*Postponed"
+    date: ""
     location: Pheonix, AZ
     venueName: Celebrity Theatre
     ticketsLink: https://www.etix.com/ticket/p/8399944/gus-johnsonhere-i-come-phoenix-celebrity-theatre
