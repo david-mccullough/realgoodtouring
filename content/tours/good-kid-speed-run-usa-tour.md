@@ -1,6 +1,6 @@
 ---
 title: "Good Kid: Speed Run USA Tour"
-Image: ../../static/img/goodkidtour.jpg
+Image: ../../static/img/gktour.jpg
 liveTime: 2022-01-19T19:34:09.712Z
 events:
   - isSoldOut: false
