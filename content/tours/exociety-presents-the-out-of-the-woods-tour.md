@@ -80,7 +80,7 @@ events:
     location: Seattle, WA
     venueName: Vera Project
     ticketsLink: https://www.eventbrite.com/e/out-of-the-woods-tour-the-vera-project-tickets-209540751027
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/11/22
     location: Salt Lake City, UT
