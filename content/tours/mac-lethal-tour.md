@@ -4,122 +4,122 @@ Image: ../../static/img/mac-lethal.jpg
 liveTime: 2021-12-09T17:38:25.596Z
 events:
   - isSoldOut: false
-    note: ""
-    date: 02/03/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Dallas, TX
     venueName: Deep Ellum Art Co.
     ticketsLink: https://www.prekindle.com/event/44445-mac-lethal-dallas
   - isSoldOut: false
-    note: ""
-    date: 02/04/22
+    note: "*Rescheduled for June"
+    date: ""
     location: San Antonio, TX
     venueName: Paper Tiger
     ticketsLink: https://www.seetickets.us/event/Mac-Lethal/457807
   - isSoldOut: false
-    note: ""
-    date: 02/05/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Austin, TX
     venueName: The Parish
     ticketsLink: https://www.prekindle.com/promo/id/531433528066284622
   - isSoldOut: false
-    note: ""
-    date: 02/09/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Phoenix, AZ
     venueName: Rebel Lounge
     ticketsLink: https://wl.seetickets.us/event/MAC-LETHAL/457790?afflky=TheRebelLounge
   - isSoldOut: false
-    note: ""
-    date: 02/10/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Las Vegas, NV
     venueName: Backstage Bar & Billiards
     ticketsLink: /
   - isSoldOut: false
-    note: ""
-    date: 02/11/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Yuma, AZ
     venueName: Red Moon
     ticketsLink: /
   - isSoldOut: false
-    note: with Epic Lloyd
-    date: 02/12/22
+    note: with Epic Lloyd *Rescheduled for June
+    date: ""
     location: San Diego, CA
     venueName: Soda Bar
     ticketsLink: https://link.dice.fm/O35ca6d352ed
   - isSoldOut: false
-    note: with Epic Lloyd
-    date: 02/14/22
+    note: with Epic Lloyd *Rescheduled for June
+    date: ""
     location: Costa Mesa, CA
     venueName: The Wayfarer
     ticketsLink: https://www.eventbrite.com/e/223650824637
   - isSoldOut: false
-    note: with Epic Lloyd
-    date: 02/15/22
+    note: with Epic Lloyd *Rescheduled for June
+    date: ""
     location: San Francisco, CA
     venueName: Brick & Mortar
     ticketsLink: https://www.ticketweb.com/event/mac-lethal-brick-and-mortar-music-hall-tickets/11622775
   - isSoldOut: false
-    note: ""
-    date: 02/16/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Sacramento, CA
     venueName: Harlow's
     ticketsLink: https://www.showclix.com/event/mac-lethal22
   - isSoldOut: false
-    note: ""
-    date: 02/18/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Portland, OR
     venueName: Polaris Hall
     ticketsLink: https://www.etix.com/ticket/p/4432408/mac-lethal-portland-polaris-hall
   - isSoldOut: false
-    note: ""
-    date: 02/19/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Seattle, WA
     venueName: High Dive
     ticketsLink: https://tixr.com/e/25561
   - isSoldOut: false
-    note: ""
-    date: 02/21/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Spokane, WA
     venueName: Lucky You Upstairs
     ticketsLink: https://www.eventbrite.com/e/mac-lethal-tickets-221701785007
   - isSoldOut: false
-    note: ""
-    date: 02/22/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Moscow, ID
     venueName: John's Alley
     ticketsLink: https://www.brownpapertickets.com/event/5328345
   - isSoldOut: false
-    note: ""
-    date: 02/23/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Boise, ID
     venueName: The Shredder
     ticketsLink: https://www.eventbrite.com/e/mac-lethal-tickets-222380053727
   - isSoldOut: false
-    note: ""
-    date: 02/24/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Salt Lake City, UT
     venueName: Urban Lounge
     ticketsLink: https://www.24tix.com/event/1512596996
   - isSoldOut: false
-    note: ""
-    date: 02/25/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Ft Collins, CO
     venueName: The Coast
     ticketsLink: https://holdmyticket.com/tickets-preview/8c631a4799a29eb2969ed51cada4a56f
   - isSoldOut: false
-    note: ""
-    date: 02/26/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Denver, CO
     venueName: The O
     ticketsLink: https://holdmyticket.com/event/385406
   - isSoldOut: false
-    note: ""
-    date: 02/27/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Colorado Springs, CO
     venueName: Vultures
     ticketsLink: https://www.ticketweb.com/event/mac-lethal-vultures-tickets/11597625
   - isSoldOut: false
-    note: ""
-    date: 03/01/22
+    note: "*Rescheduled for June"
+    date: ""
     location: Omaha, NE
     venueName: Slowdown
     ticketsLink: https://wl.seetickets.us/event/Mac-Lethal/457838?afflky=Slowdown
