@@ -2,7 +2,7 @@
 title: MAC LETHAL
 Image: ../../static/img/mac-lethal.jpg
 liveTime: 2021-12-09T17:38:25.596Z
-events:  
+events:
   - isSoldOut: false
     note: ""
     date: 04/08/22
@@ -123,7 +123,7 @@ events:
     location: Kansas City, MO
     venueName: recordBAR
     ticketsLink: https://app.showslinger.com/ticket_payment/2881/preview_ticket
-    - isSoldOut: false
+  - isSoldOut: false
     note: "*Rescheduled for June"
     date: ""
     location: Dallas, TX
