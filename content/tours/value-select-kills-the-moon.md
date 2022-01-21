@@ -8,7 +8,7 @@ events:
     date: 04/14/22
     location: Seattle, WA
     venueName: Vera Project
-    ticketsLink: /
+    ticketsLink: https://www.ticketweb.com/event/value-select-vera-project-tickets/11733595?pl=crocodile
   - isSoldOut: false
     note: ""
     date: 04/15/22
