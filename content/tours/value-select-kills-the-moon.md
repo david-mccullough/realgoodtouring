@@ -129,4 +129,10 @@ events:
     location: Salt Lake City, UT
     venueName: The Beehive
     ticketsLink: /
+  - isSoldOut: false
+    note: ""
+    date: 05/19/22
+    location: Oakland, CA
+    venueName: New Parish
+    ticketsLink: https://www.ticketweb.com/event/value-select-the-new-parish-tickets/11741385?pl=newparish
 ---
