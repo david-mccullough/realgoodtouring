@@ -41,43 +41,43 @@ events:
     ticketsLink: https://www.prekindle.com/promo/id/531433528135527223
   - isSoldOut: false
     note: ""
-    date: 01/19/22
+    date: 04/27/22
     location: Dallas, TX
     venueName: Deep Ellum Art Co.
     ticketsLink: https://www.prekindle.com/event/23954-value-select-dallas
   - isSoldOut: false
     note: ""
-    date: 04/27/22
+    date: 04/29/22
     venueName: The Abbey
     location: Orlando, FL
     ticketsLink: https://valueselectorlando.eventbrite.com
   - isSoldOut: false
     note: ""
-    date: 04/29/22
+    date: 04/30/22
     venueName: Crowbar
     location: Tampa, FL
     ticketsLink: https://valueselecttampa.eventbrite.com
   - isSoldOut: false
     note: ""
-    date: 04/30/22
+    date: 05/01/22
     location: Jacksonville, FL
     venueName: 1904 Music Hall
     ticketsLink: https://valueselectjax.eventbrite.com
   - isSoldOut: false
     note: ""
-    date: 05/01/22
+    date: 05/02/22
     location: Atlanta, GA
     venueName: Aisle 5
     ticketsLink: https://seetickets.us/valueselecta5
   - isSoldOut: false
     note: ""
-    date: 05/02/22
+    date: 05/05/22
     venueName: "Miracle Theater "
     location: Washington, DC
     ticketsLink: /
   - isSoldOut: false
     note: ""
-    date: 05/05/22
+    date: 05/06/22
     venueName: Metro Gallery
     location: Baltimore, MD
     ticketsLink: https://www.etix.com/ticket/p/5925842/value-selectwith-special-guests-jazz-emu-baltimore-metro-baltimore
@@ -123,4 +123,10 @@ events:
     location: Denver, CO
     venueName: Cervantes Other Side
     ticketsLink: bit.ly/ValueSelectCervs
+  - isSoldOut: false
+    note: ""
+    date: 05/17/22
+    location: Salt Lake City, UT
+    venueName: The Beehive
+    ticketsLink: /
 ---
