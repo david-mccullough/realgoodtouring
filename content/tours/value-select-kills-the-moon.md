@@ -92,13 +92,13 @@ events:
     date: 05/08/22
     location: Boston, MA
     venueName: Hard Rock Cafe
-    ticketsLink: /
+    ticketsLink: https://bit.ly/ValueSelectBoston
   - isSoldOut: false
     note: ""
     date: 05/10/22
     venueName: Mohawk Place
     location: Buffalo, NY
-    ticketsLink: /
+    ticketsLink: https://aftr.dk/3fEWzfC
   - isSoldOut: false
     note: ""
     date: 05/11/22
