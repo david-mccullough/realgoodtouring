@@ -131,7 +131,7 @@ events:
     ticketsLink: https://www.24tix.com/event/1866859347
   - isSoldOut: false
     note: ""
-    date: 05/19/22
+    date: 05/21/22
     location: Oakland, CA
     venueName: New Parish
     ticketsLink: https://www.ticketweb.com/event/value-select-the-new-parish-tickets/11741385?pl=newparish
