@@ -20,7 +20,7 @@ events:
     date: 04/19/22
     venueName: Teragram Ballroom
     location: Los Angeles, CA
-    ticketsLink: /
+    ticketsLink: https://www.ticketmaster.com/event/09005C38D2594EF1
   - isSoldOut: false
     note: ""
     date: 04/20/22
@@ -74,7 +74,7 @@ events:
     date: 05/05/22
     venueName: "Miracle Theater "
     location: Washington, DC
-    ticketsLink: /
+    ticketsLink: https://www.unionstage.com/shows/value-select-miracle-theatre/
   - isSoldOut: false
     note: ""
     date: 05/06/22
