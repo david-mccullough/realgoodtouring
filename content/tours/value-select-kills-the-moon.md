@@ -128,7 +128,7 @@ events:
     date: 05/17/22
     location: Salt Lake City, UT
     venueName: The Beehive
-    ticketsLink: /
+    ticketsLink: https://www.24tix.com/event/1866859347
   - isSoldOut: false
     note: ""
     date: 05/19/22
