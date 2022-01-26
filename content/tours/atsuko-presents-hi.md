@@ -10,6 +10,12 @@ events:
     location: "Denver, CO "
     venueName: " Globe Hall"
   - isSoldOut: false
+    note: With guests Nicole Byer, Taylor Tomlinson, Daniel Webb
+    date: 02/22/22
+    location: Los Angeles, CA
+    venueName: "Largo at the Coronet "
+    ticketsLink: https://wl.seetickets.us/event/Atsuko-andFriendsRescheduledfrom113/458284?afflky=LargoAtTheCoronet
+  - isSoldOut: false
     note: ""
     date: 04/03/22
     venueName: " Antone's"
