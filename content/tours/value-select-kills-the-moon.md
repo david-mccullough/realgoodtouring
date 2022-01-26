@@ -122,7 +122,7 @@ events:
     date: 05/16/22
     location: Denver, CO
     venueName: Cervantes Other Side
-    ticketsLink: bit.ly/ValueSelectCervs
+    ticketsLink: https://www.etix.com/ticket/p/6721271/value-select-wspecial-guests-denver-cervantesother-side
   - isSoldOut: false
     note: ""
     date: 05/17/22
