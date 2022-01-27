@@ -136,6 +136,12 @@ events:
     ticketsLink: https://seetickets.us/ravkillbillcle
   - isSoldOut: false
     note: ""
+    date: 04/23/22
+    location: Syracuse, NY
+    venueName: Funk N Waffles
+    ticketsLink: https://aftr.dk/3FVchh3
+  - isSoldOut: false
+    note: ""
     date: 04/24/22
     location: Burlington, VT
     venueName: Higher Ground Showcase Lounge
@@ -164,4 +170,16 @@ events:
     location: Washington, DC
     venueName: Pie Shop
     ticketsLink: https://www.etix.com/ticket/p/2979701/exociety-presentsthe-out-of-the-woods-tour-featrav-kill-bill-scuare-airospace-washington-pie-shop
+  - isSoldOut: false
+    note: ""
+    date: 04/30/22
+    location: Chapel Hill, NC
+    venueName: Local 506
+    ticketsLink: https://www.etix.com/ticket/p/4313227/rav-x-kill-billthe-rapper-wairospacescuare-chapel-hill-local-506-cil
+  - isSoldOut: false
+    note: ""
+    date: 05/01/22
+    ticketsLink: https://www.etix.com/ticket/p/7575692/exociety-presentsthe-out-of-the-woods-tour-featravkill-billthe-rapperairospace-scuare-18-nashville-the-end?cobrand=theend&partner_id=240
+    location: Nashville, TN
+    venueName: The End
 ---
