@@ -131,6 +131,12 @@ events:
     ticketsLink: https://www.24tix.com/event/1866859347
   - isSoldOut: false
     note: ""
+    date: 05/19/22
+    location: Boise, ID
+    venueName: The Olympic
+    ticketsLink: https://www.eventbrite.com/e/value-select-jazz-emu-tickets-256620196917
+  - isSoldOut: false
+    note: ""
     date: 05/24/22
     location: Oakland, CA
     venueName: New Parish
