@@ -71,6 +71,12 @@ events:
     ticketsLink: https://seetickets.us/valueselecta5
   - isSoldOut: false
     note: ""
+    date: 05/04/22
+    location: Philadelphia, PA
+    venueName: Kung Fu Necktie
+    ticketsLink: /
+  - isSoldOut: false
+    note: ""
     date: 05/05/22
     venueName: "Miracle Theater "
     location: Washington, DC
