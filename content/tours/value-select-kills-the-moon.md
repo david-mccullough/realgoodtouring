@@ -74,7 +74,7 @@ events:
     date: 05/04/22
     location: Philadelphia, PA
     venueName: Kung Fu Necktie
-    ticketsLink: /
+    ticketsLink: https://www.etix.com/ticket/p/8392763/value-select-jazz-emu-at-kung-fu-necktie-philadelphia-kung-fu-necktie
   - isSoldOut: false
     note: ""
     date: 05/05/22
