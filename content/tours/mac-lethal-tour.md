@@ -44,7 +44,7 @@ events:
     date: 04/15/22
     location: Burlington, VT
     venueName: Higher Ground - Showcase
-    ticketsLink: https://www.eventbrite.com/e/mac-lethal-tickets-224152144097
+    ticketsLink: https://www.seetickets.us/event/Mac-Lethal/460803
   - isSoldOut: false
     note: ""
     date: 04/16/22
