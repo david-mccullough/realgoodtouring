@@ -145,7 +145,7 @@ events:
     date: 04/24/22
     location: Burlington, VT
     venueName: Higher Ground Showcase Lounge
-    ticketsLink: https://www.eventbrite.com/e/rav-kill-bill-the-rapper-tickets-208810567027
+    ticketsLink: https://www.seetickets.us/event/Rav-KillBillTheRapper/460808
   - isSoldOut: false
     note: ""
     date: 04/25/22
