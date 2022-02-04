@@ -14,7 +14,7 @@ events:
     date: 07/06/22
     location: Austin, TX
     venueName: State Theatre
-    ticketsLink: https://tickets.austintheatre.org/7697/7698
+    ticketsLink: https://www.carmenpritchett.com/pages/live
   - isSoldOut: false
     note: ""
     date: 07/09/22
