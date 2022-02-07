@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="rgt" src="https://www.realgoodtouring.com/assets/images/smalllogo.png" width="200" />
+    <img alt="rgt" src="https://www.realgoodtouring.com/assets/images/favicon.png" width="200" />
 </p>
 
  ```    
