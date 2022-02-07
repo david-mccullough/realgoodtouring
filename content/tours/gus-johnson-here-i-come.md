@@ -192,7 +192,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 06/16/22
-    location: Pheonix, AZ
+    location: Phoenix, AZ
     venueName: Celebrity Theatre
     ticketsLink: https://www.etix.com/ticket/p/8399944/gus-johnsonhere-i-come-phoenix-celebrity-theatre
   - isSoldOut: false
