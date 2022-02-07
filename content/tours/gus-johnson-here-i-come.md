@@ -199,7 +199,7 @@ events:
     note: ""
     date: 06/25/22
     location: Los Angeles, CA
-    venueName: Fonda (1 + 1 | Recording Special)
+    venueName: Fonda Theatre
     ticketsLink: https://www.axs.com/events/414087/gus-johnson-here-i-come-tickets
   - isSoldOut: false
     note: ""
