@@ -13,7 +13,7 @@ events:
     note: ""
     date: 07/06/22
     location: Austin, TX
-    venueName: State Theatre
+    venueName: Stateside at the Paramount
     ticketsLink: https://www.carmenpritchett.com/pages/live
   - isSoldOut: false
     note: ""
