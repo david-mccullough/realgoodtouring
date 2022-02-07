@@ -54,7 +54,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 04/12/22
-    location: Columbus, Oh
+    location: Columbus, OH
     venueName: Express Live
     ticketsLink: https://www.axs.com/events/413678/gus-johnson-tickets
   - isSoldOut: false
