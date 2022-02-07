@@ -31,8 +31,8 @@ events:
     note: ""
     date: 04/15/22
     location: Cleveland, OH
-    venueName: Mahall's Locker Room
-    ticketsLink: https://seetickets.us/goodkidspeedrunusacle
+    venueName: The Foundry
+    ticketsLink: https://www.seetickets.us/event/Good-Kid-SPEED-RUN-USA-tour-at-The-Foundry/462806
   - isSoldOut: false
     note: ""
     date: 04/16/22
