@@ -131,13 +131,13 @@ events:
     ticketsLink: https://www.axs.com/events/414022/gus-johnson-tickets
   - isSoldOut: false
     note: ""
-    date: 05/13/22
+    date: 05/20/22
     location: Salt Lake City, UT
     venueName: The Union
     ticketsLink: https://gusjohnson.eventbrite.com
   - isSoldOut: false
     note: ""
-    date: 05/14/22
+    date: 05/21/22
     location: Boulder, CO
     venueName: Boulder Theatre
     ticketsLink: https://www.axs.com/events/413518/gus-johnson-tickets
