@@ -1,6 +1,5 @@
-<p align="center">
-    ![alt text](https://github.com/david-mccullough/realgoodtouring/blob/main/src/images/favicon.png?raw=true)
-</p>
+![alt text](https://github.com/david-mccullough/realgoodtouring/blob/main/src/images/favicon.png?raw=true)
+
 
 
 
