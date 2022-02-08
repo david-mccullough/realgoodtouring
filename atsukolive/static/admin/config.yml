@@ -1,0 +1,69 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: static/img
+public_folder: ../../static/img
+
+collections:
+  - name: "tour"
+    label: "Tour"
+    extension: "md"
+    folder: "content/tours"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Shows"
+        name: "events"
+        widget: "list"
+        summary: "{{date | date('MM/DD/YY')}} - {{fields.location}}"
+        fields:
+          - {
+              label: "Date",
+              name: "date",
+              widget: "datetime",
+              required: false,
+              format: "MM/DD/YY",
+              picker_utc: true,
+            }
+          - {
+              label: "Location",
+              name: "location",
+              widget: "string",
+              hint: "e.g. Los Angeles, CA",
+            }
+          - { label: "Venue Name", name: "venueName", widget: "string" }
+          - { label: "Tickets Link", name: "ticketsLink", widget: "string" }
+          - {
+              label: "Sold Out",
+              name: "isSoldOut",
+              widget: "boolean",
+              required: false,
+              default: false,
+            }
+          - {
+              label: "Note",
+              name: "note",
+              required: false,
+              default: "",
+              widget: "string",
+              hint: "e.g. *Venue Change",
+            }
+  - name: "venues"
+    label: "Venue"
+    extension: "md"
+    folder: "content/venues"
+    create: true
+    hide: true
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Location",
+          name: "location",
+          widget: "string",
+          hint: "e.g. Los Angeles, CA",
+        }
+      - { label: "Venue Name", name: "venueName", widget: "string" }

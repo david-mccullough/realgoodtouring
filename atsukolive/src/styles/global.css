@@ -1,0 +1,184 @@
+body {
+  background: #cd4557;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  font-size: 17px;
+  font-family: "futura", "Helvetica", sans-serif;
+}
+.note {
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.container {
+  text-align: center;
+}
+@media screen and (min-width: 600px) {
+  .mobile {
+    display: none;
+  }
+  .container {
+    display: flex;
+    max-width: 1221px;
+    margin: 10px auto;
+    text-align: left;
+  }
+}
+.side img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+.side {
+  width: 60%;
+  margin: 20px auto -5% auto;
+}
+.dates {
+  padding-left: 0%;
+}
+.date {
+  background: #f3c8cd;
+  box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.2);
+  color: #cd4557;
+  margin-right: 30px;
+  text-align: center;
+  transform: rotate(-3deg);
+  text-transform: uppercase;
+
+  width: 74px;
+  font-size: 17px;
+  padding: 10px 0;
+}
+.tickets {
+  background: #ffca1a;
+  box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.2);
+  color: #cd4557;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  text-transform: uppercase;
+  font-size: 17px;
+  width: 100px;
+  font-weight: 600;
+  margin: 10px auto;
+  padding: 10px 20px;
+  transition: all 0.25s ease;
+}
+.tickets:hover {
+  transform: Scale(1.1);
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (max-width: 599px) {
+  .desktop {
+    display: none !important;
+  }
+  .date {
+    margin: 0 auto 10px auto;
+  }
+}
+@media screen and (min-width: 600px) {
+  .tickets {
+    transform: rotate(3deg);
+    float: right;
+    width: auto;
+  }
+  li:nth-child(even) .tickets {
+    transform: rotate(-3deg);
+  }
+  .rgt {
+    height: auto;
+    width: 64px;
+    margin-top: 20px !important;
+  }
+  .dates {
+    padding-left: 6%;
+    width: 51%;
+    padding-right: 6%;
+  }
+  .side {
+    width: 35%;
+    margin: 30px 0 0 0;
+    padding-left: 6%;
+  }
+  li {
+    display: flex;
+    align-items: center;
+    margin: 30px 0;
+    align-content: stretch;
+  }
+}
+li {
+  margin: 30px 0;
+}
+.venue {
+  flex-grow: 1;
+}
+p,
+h3 {
+  margin: 0;
+}
+
+p {
+  font-weight: Medium;
+
+  line-height: 1;
+}
+h3 {
+  font-weight: bold;
+}
+li:nth-child(even) .date {
+  transform: rotate(3deg);
+}
+@media screen and (min-width: 940px) {
+  .container {
+    margin: 40px auto;
+  }
+  p {
+    font-size: 19px;
+  }
+  h3 {
+    font-size: 25.5px;
+  }
+
+  .date {
+    width: 84px;
+    font-size: 20px;
+    padding: 12px 0;
+  }
+
+  .side {
+    width: 40%;
+    padding-left: 6%;
+    margin: 0;
+  }
+  .rgt {
+    width: 94px;
+  }
+}
+
+.video-player-container {
+  border: 5px #f3c8cd solid;
+  border-radius: 3px;
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.video-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+li:nth-child(even) .tickets:hover {
+  transform: Scale(1.1);
+}
