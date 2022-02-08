@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 
-logo_url: https://github.com/david-mccullough/realgoodtouring/blob/main/src/images/favicon.png?raw=true
+logo_url: https://github.com/david-mccullough/realgoodtouring/blob/main/src/images/logo.png?raw=true
 
 media_folder: static/img
 public_folder: ../../static/img
