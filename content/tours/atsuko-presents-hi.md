@@ -39,4 +39,10 @@ events:
     location: "Atlanta, GA "
     venueName: " Club 529"
     ticketsLink: https://atsuko529.eventbrite.com
+  - isSoldOut: false
+    note: ""
+    date: 05/27/22
+    location: Vancouver, CA
+    venueName: Biltmore Cabaret
+    ticketsLink: https://jflvancouver.com/show/atsuko-okatsuka-biltmore/
 ---
