@@ -1,9 +1,11 @@
 <p align="center">
-    <img alt="rgt" src="https://www.realgoodtouring.com/assets/images/favicon.png" width="200" />
+    ![alt text](https://github.com/david-mccullough/realgoodtouring/blob/main/src/images/favicon.png?raw=true)
 </p>
 
+
+
  ```    
-    npm init gatsby
+    npm run develop
  ```
  
  Runs at http://localhost:8000
