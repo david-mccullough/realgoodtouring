@@ -9,7 +9,7 @@ collections:
   - name: "tour"
     label: "Tour"
     extension: "md"
-    folder: "content/tours"
+    folder: "../../../content/tours"
     create: true
     editor:
       preview: true
