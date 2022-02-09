@@ -1,5 +1,5 @@
 ---
-title: "Berleezy presents: the ball"
+title: "Berleezy presents: the birthday ball"
 Image: ../../static/img/berleezy.png
 liveTime: 2022-02-04T23:09:00.162Z
 events:
