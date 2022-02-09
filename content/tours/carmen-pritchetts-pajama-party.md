@@ -8,17 +8,17 @@ events:
     date: 07/02/22
     location: Orlando, FL
     venueName: The Abbey
-    ticketsLink: https://www.carmenpritchett.com/pages/live
+    ticketsLink: https://cpritchettorlando.eventbrite.com/
   - isSoldOut: false
     note: ""
     date: 07/06/22
     location: Austin, TX
     venueName: Stateside at the Paramount
-    ticketsLink: https://www.carmenpritchett.com/pages/live
+    ticketsLink: https://tickets.austintheatre.org/7697/7698
   - isSoldOut: false
     note: ""
     date: 07/09/22
     location: Houston, TX
     venueName: Warehouse Live
-    ticketsLink: https://www.carmenpritchett.com/pages/live
+    ticketsLink: https://www.eventbrite.com/e/carmen-pritchett-tickets-262582329817
 ---
