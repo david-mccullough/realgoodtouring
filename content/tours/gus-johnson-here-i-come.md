@@ -1,7 +1,7 @@
 ---
 title: "GUS JOHNSON: HERE I COME"
 Image: ../../static/img/gusjohnson.png
-liveTime: 2021-12-04T07:30:00.000Z
+liveTime: 2022-02-11T02:00:00.000Z
 events:
   - isSoldOut: false
     note: ""
