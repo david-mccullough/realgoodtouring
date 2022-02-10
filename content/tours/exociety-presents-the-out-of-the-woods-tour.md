@@ -50,7 +50,7 @@ events:
     location: Phoenix, AZ
     venueName: Rebel Lounge
     ticketsLink: https://wl.seetickets.us/event/THE-OUTOFTHEWOODSTOUR/454463?afflky=TheRebelLounge
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/02/22
     location: Santa Ana, CA
@@ -110,7 +110,7 @@ events:
     location: Milwaukee, MN
     venueName: Back Room at Collectivo
     ticketsLink: https://www.pabsttheatergroup.com/events/detail/kill-bill-and-rav-2022
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/18/22
     location: Chicago, IL
@@ -152,7 +152,7 @@ events:
     ticketsLink: https://www.ticketweb.com/event/the-out-of-the-woods-middle-east-upstairs-tickets/11526755?pl=mideastclub
     location: Boston, MA
     venueName: Middle East Downstairs
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/26/22
     location: Brooklyn, NY
