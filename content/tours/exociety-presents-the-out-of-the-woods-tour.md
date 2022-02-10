@@ -79,7 +79,7 @@ events:
     date: 04/09/22
     location: Seattle, WA
     venueName: Vera Project
-    ticketsLink: https://www.eventbrite.com/e/out-of-the-woods-tour-the-vera-project-tickets-209540751027
+    ticketsLink: https://www.seetickets.us/event/OUT-OF-THE-WOODS-TOUR-The-Vera-Project/462433
   - isSoldOut: true
     note: ""
     date: 04/11/22
