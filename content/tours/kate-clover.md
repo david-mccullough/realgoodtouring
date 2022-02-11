@@ -62,7 +62,7 @@ events:
     date: 04/30/22
     ticketsLink: https://www.showclix.com/event/kateclover/pre-sale
     location: Pittsburgh, PA
-    venueName: Spirit Lodge
+    venueName: Spirit Hall
   - isSoldOut: false
     note: ""
     date: 05/01/22
