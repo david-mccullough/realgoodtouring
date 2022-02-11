@@ -20,7 +20,7 @@ events:
     date: 04/20/22
     location: Phoenix, AZ
     venueName: Last Exit
-    ticketsLink: /
+    ticketsLink: https://www.ticketweb.com/event/kate-clover-last-exit-live-tickets/11805835?pl=vanburen
   - isSoldOut: false
     note: ""
     date: 04/22/22
