@@ -92,7 +92,7 @@ events:
     date: 05/11/22
     location: Santa Cruz, CA
     venueName: Moe's Alley
-    ticketsLink: https://www.ticketweb.com/event/kate-clover-moes-alley-tickets/11799575?pl=moes
+    ticketsLink: https://www.ticketweb.com/event/kate-clover-moes-alley-tickets/11799575?pl=MoesAlly&REFID=clientsitewp
   - isSoldOut: false
     note: ""
     date: 05/12/22
