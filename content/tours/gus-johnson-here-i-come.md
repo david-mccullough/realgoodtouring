@@ -121,8 +121,8 @@ events:
     note: ""
     date: 05/12/22
     location: Houston, TX
-    venueName: Zilkha Hall
-    ticketsLink: https://my.thehobbycenter.org/5087/5089#
+    venueName: Warehouse Live
+    ticketsLink: https://www.eventbrite.com/e/gus-johnson-tickets-265184783827
   - isSoldOut: false
     note: ""
     date: 05/14/22
