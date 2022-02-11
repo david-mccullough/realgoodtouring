@@ -5,7 +5,7 @@ liveTime: 2022-02-11T16:00:58.965Z
 events:
   - isSoldOut: false
     note: ""
-    date: 04/14/22
+    date: 04/13/22
     ticketsLink: https://www.ticketmaster.com/event/09005C449AA03AA9
     location: Los Angeles, CA
     venueName: Moroccan Lounge
