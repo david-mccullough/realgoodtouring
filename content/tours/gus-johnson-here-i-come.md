@@ -116,7 +116,7 @@ events:
     date: 05/10/22
     location: New Orleans, LA
     venueName: Civic Theatre
-    ticketsLink: https://www.eventbrite.com/e/gus-johnson-here-i-come-tickets-138971203611
+    ticketsLink: https://www.ticketmaster.com/event/1B005C4A0BC9901A
   - isSoldOut: false
     note: ""
     date: 05/12/22
