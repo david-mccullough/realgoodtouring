@@ -23,12 +23,6 @@ events:
     ticketsLink: https://www.ticketweb.com/event/kate-clover-last-exit-live-tickets/11805835?pl=vanburen
   - isSoldOut: false
     note: ""
-    date: 04/22/22
-    location: Dallas, TX
-    ticketsLink: /
-    venueName: " "
-  - isSoldOut: false
-    note: ""
     date: 04/23/22
     location: Austin, TX
     venueName: Mohawk
