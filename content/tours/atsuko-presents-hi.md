@@ -17,6 +17,12 @@ events:
     ticketsLink: https://wl.seetickets.us/event/Atsuko-andFriendsRescheduledfrom113/458284?afflky=LargoAtTheCoronet
   - isSoldOut: false
     note: ""
+    date: 03/25/22
+    ticketsLink: https://www.eventbrite.com/e/atsuko-okatsuka-presents-hi-tickets-267064054777
+    venueName: The Bell House
+    location: Brooklyn, NY
+  - isSoldOut: false
+    note: ""
     date: 04/03/22
     venueName: " Antone's"
     location: "Austin, TX "
@@ -45,10 +51,4 @@ events:
     location: Vancouver, CA
     venueName: Biltmore Cabaret
     ticketsLink: https://jflvancouver.com/show/atsuko-okatsuka-biltmore/
-  - isSoldOut: false
-    note: ""
-    date: 03/25/22
-    ticketsLink: https://www.eventbrite.com/e/atsuko-okatsuka-presents-hi-tickets-267064054777
-    venueName: The Bell House
-    location: Brooklyn, NY
 ---
