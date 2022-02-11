@@ -1,6 +1,6 @@
 ---
 title: Carmen Pritchett's Pajama Party
-Image: ../../static/img/rgt-carmen-pritchett_admat_8.5_x11_-copy.png
+Image: ../../static/img/8.5_-x-11__admat_carmen.png
 liveTime: 2022-02-04T15:47:41.483Z
 events:
   - isSoldOut: false
