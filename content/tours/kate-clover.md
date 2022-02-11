@@ -1,6 +1,6 @@
 ---
 title: Kate Clover
-Image: ""
+Image: ../../static/img/square_text.jpg
 liveTime: 2022-02-11T16:00:58.965Z
 events:
   - isSoldOut: false
@@ -20,7 +20,7 @@ events:
     date: 04/20/22
     location: Phoenix, AZ
     venueName: Last Exit
-    ticketsLink: https://www.ticketweb.com/event/thunderbird-lounge-3-year-anniversary-thunderbird-lounge-tickets/11756145?pl=thunderbird
+    ticketsLink: /
   - isSoldOut: false
     note: ""
     date: 04/22/22
@@ -56,11 +56,11 @@ events:
     date: 04/29/22
     location: Brooklyn, NY
     venueName: Union Pool
-    ticketsLink: /
+    ticketsLink: https://link.dice.fm/Y4cddda6e3f2
   - isSoldOut: false
     note: ""
     date: 04/30/22
-    ticketsLink: /
+    ticketsLink: https://www.showclix.com/event/kateclover/pre-sale
     location: Pittsburgh, PA
     venueName: Spirit Lodge
   - isSoldOut: false
