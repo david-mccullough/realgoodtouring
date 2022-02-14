@@ -86,7 +86,7 @@ events:
     date: 05/08/22
     location: Arcata, CA
     venueName: Miniplex
-    ticketsLink: /
+    ticketsLink: https://miniplex.ticketleap.com/kate-clover/
   - isSoldOut: false
     note: ""
     date: 05/11/22
