@@ -3,7 +3,7 @@ title: "Berleezy presents: the birthday ball"
 Image: ../../static/img/berleezy.png
 liveTime: 2022-02-04T23:09:00.162Z
 events:
-  - isSoldOut: true
+  - isSoldOut: false
     note: ""
     date: 04/09/22
     location: Santa Ana, CA
