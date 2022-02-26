@@ -64,4 +64,12 @@ sections:
     question: I have a VIP question that isn't answered here. Who can I ask for help?
   - question: How do I get a refund for my VIP ticket?
     answerMarkdown: All VIP tickets are non-refundable and non-transferable.
+  - question: I bought a GA ticket but want to upgrade to a VIP ticket. How do I do that?
+    answerMarkdown: >-
+      Please reach out directly to the venue - if there are still VIP tickets
+      available for the tier you’re requesting, they should be able to assist
+      with your upgrade. 
+
+
+      If the venue does not reply, please email [VIP@realgoodtouring.com](mailto:VIP@realgoodtouring.com) with your name, the show date, and the tour you are trying to upgrade for.
 ---
