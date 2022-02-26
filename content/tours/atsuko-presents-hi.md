@@ -5,16 +5,10 @@ liveTime: 2021-12-06T07:30:00.000Z
 events:
   - isSoldOut: false
     note: ""
-    date: 01/30/22
-    ticketsLink: https://www.etix.com/ticket/p/2845406/atsuko-okatsuka-denver-globe-hall
-    location: "Denver, CO "
-    venueName: " Globe Hall"
-  - isSoldOut: false
-    note: With guests Nicole Byer, Taylor Tomlinson, Daniel Webb
-    date: 02/21/22
+    date: 03/14/22
     location: Los Angeles, CA
-    venueName: "Largo at the Coronet "
-    ticketsLink: https://wl.seetickets.us/event/Atsuko-andFriendsRescheduledfrom113/458284?afflky=LargoAtTheCoronet
+    venueName: The Elysian
+    ticketsLink: https://www.elysiantheater.com/shows/atsuko031422
   - isSoldOut: false
     note: ""
     date: 03/25/22
