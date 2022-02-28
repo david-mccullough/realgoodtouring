@@ -7,8 +7,14 @@ events:
     note: ""
     date: 04/07/22
     location: Portland, OR
-    venueName: Holocene
+    venueName: Holocene (Early Show)
     ticketsLink: https://www.etix.com/ticket/p/3922638/skweezy-jibbscaps-lock-live-tour-wadam-pasi-21-portland-holocene
+  - isSoldOut: false
+    note: ""
+    date: 04/07/22
+    location: Portland, OR
+    venueName: Holocene (Late Show)
+    ticketsLink: https://www.etix.com/ticket/p/3784422/late-show-addedskweezy-jibbscaps-lock-live-tour-wadam-pasi-21-portland-holocene
   - isSoldOut: false
     note: ""
     date: 04/14/22
