@@ -13,7 +13,7 @@ events:
     note: ""
     date: 03/10/22
     location: Austin, TX
-    venueName: Empire Control Room
+    venueName: " Empire Control Room"
     ticketsLink: https://www.prekindle.com/promo/id/531433528120971365
   - isSoldOut: false
     note: ""
