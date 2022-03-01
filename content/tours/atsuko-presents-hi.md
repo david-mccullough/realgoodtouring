@@ -55,6 +55,6 @@ events:
     note: ""
     date: 07/01/22
     location: Honolulu, HI
-    venueName: Hawaii Brian's Social Club
-    ticketsLink: atsukookatsukahi.eventbrite.com
+    venueName: HB Social Club
+    ticketsLink: https://www.eventbrite.com/e/riseup-live-comedy-u-present-atsuko-okatsuka-tickets-288710489847
 ---
