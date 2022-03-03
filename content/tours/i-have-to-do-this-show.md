@@ -91,7 +91,7 @@ events:
     note: ""
     date: 04/09/22
     location: Washington, DC
-    venueName: 9:30 Club
+    venueName: Lincoln Theater
     ticketsLink: https://www.ticketmaster.com/event/15005B34CA6C311D
   - isSoldOut: false
     note: ""
