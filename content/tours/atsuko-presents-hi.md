@@ -3,7 +3,7 @@ title: ATSUKO PRESENTS HI
 Image: ../../static/img/atsuko.png
 liveTime: 2021-12-06T07:30:00.000Z
 events:
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 03/14/22
     location: Los Angeles, CA
