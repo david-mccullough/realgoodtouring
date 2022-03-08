@@ -47,6 +47,12 @@ events:
     ticketsLink: https://www.seetickets.us/event/Mac-Lethal/460803
   - isSoldOut: false
     note: ""
+    date: 04/16/22
+    location: Boston, MA
+    venueName: ZUZU!
+    ticketsLink: https://www.ticketweb.com/event/mac-lethal-feral-the-earthworm-middle-east-zuzu-tickets/11874525?pl=mideastclub
+  - isSoldOut: false
+    note: ""
     date: 05/04/22
     location: St Louis, MO
     venueName: Old Rock House
