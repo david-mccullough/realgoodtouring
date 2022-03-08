@@ -21,7 +21,7 @@ events:
     location: San Antonio, TX
     venueName: Paper Tiger
     ticketsLink: https://www.seetickets.us/event/TWRP/462514
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 03/12/22
     location: Dallas, TX
@@ -45,7 +45,7 @@ events:
     location: Costa Mesa, CA
     venueName: Wayfarer
     ticketsLink: https://www.eventbrite.com/e/167888351579
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/21/22
     location: Los Angeles, CA
