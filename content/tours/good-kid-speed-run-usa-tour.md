@@ -9,13 +9,13 @@ events:
     location: Washington, DC
     venueName: Pie Shop
     ticketsLink: https://www.etix.com/ticket/p/3248635/good-kid--washington-pie-shop
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/10/22
     location: Philadelphia, PA
     venueName: Kung Fu Necktie
     ticketsLink: https://www.etix.com/ticket/p/2319858/good-kid-at-kung-fu-necktie-philadelphia-kung-fu-necktie
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/12/22
     location: Boston, MA
