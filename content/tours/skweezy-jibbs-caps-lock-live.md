@@ -19,6 +19,12 @@ events:
     note: ""
     date: 04/14/22
     location: Seattle, WA
-    venueName: "The Crocodile "
+    venueName: The Crocodile (Early Show)
     ticketsLink: https://www.ticketweb.com/event/skweezy-jibbs-adam-pasi-here-after-tickets/11799425?pl=crocodile
+  - isSoldOut: false
+    note: ""
+    date: 03/14/22
+    location: Seattle, WA
+    venueName: The Crocodile (Late Show)
+    ticketsLink: https://www.ticketweb.com/event/skweezy-jibbs-adam-pasi-here-after-tickets/11899845?pl=crocodile
 ---
