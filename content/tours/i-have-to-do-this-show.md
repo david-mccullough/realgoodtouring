@@ -62,7 +62,7 @@ events:
     date: 04/01/22
     location: Iowa City, IA
     venueName: Englert Theatre
-    ticketsLink: https://bit.ly/3u3SYOw
+    ticketsLink: https://ci.ovationtix.com/36399/production/1102982
   - isSoldOut: true
     note: ""
     date: 04/03/22
