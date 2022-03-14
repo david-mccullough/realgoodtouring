@@ -15,12 +15,12 @@ events:
     location: Philadelphia, PA
     venueName: Kung Fu Necktie
     ticketsLink: https://www.etix.com/ticket/p/2319858/good-kid-at-kung-fu-necktie-philadelphia-kung-fu-necktie
-  - isSoldOut: true
+  - isSoldOut: false
     note: ""
     date: 04/12/22
     location: Boston, MA
     ticketsLink: https://www.ticketweb.com/event/good-kid-and-special-guests-middle-east-upstairs-tickets/11686425?pl=mideastclub
-    venueName: Mid East Upststairs
+    venueName: Sonia *Upgraded Venue
   - isSoldOut: false
     note: ""
     date: 04/13/22
