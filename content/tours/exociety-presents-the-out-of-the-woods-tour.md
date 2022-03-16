@@ -68,7 +68,7 @@ events:
     ticketsLink: https://wl.seetickets.us/event/Rav-Kill-Bill-Scuare-and-Airospace/454500?afflky=CornerstoneBerkeley
     venueName: Cornerstone
     location: Berkeley, CA
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/08/22
     location: Portland, OR
