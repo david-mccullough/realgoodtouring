@@ -1,6 +1,6 @@
 ---
 title: The Time is Now Tour
-Image: ../../static/img/1-2.jpg
+Image: ../../static/img/the-time-is-now-tour-poster-final-main.png
 liveTime: 2022-03-15T20:47:26.231Z
 events:
   - isSoldOut: false
