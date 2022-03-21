@@ -44,7 +44,7 @@ events:
     location: Dallas, TX
     venueName: Cambridge Room
     ticketsLink: https://www.ticketmaster.com/event/0C005B6F09284919
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/01/22
     location: Phoenix, AZ
