@@ -15,4 +15,18 @@ events:
     location: Allston, MA
     venueName: Crystal Ballroom
     ticketsLink: https://www.crystalballroomboston.com/events/skeptics-guide-to-the-universe/
+  - isSoldOut: false
+    note: ""
+    date: 07/15/22
+    location: Phoenix, AZ
+    venueName: The Van Buren
+    ticketsLink: https://www.ticketmaster.com/event/19005C71FA514B8B
+      https://www.thevanburenphx.com
+  - isSoldOut: false
+    note: ""
+    date: 07/16/22
+    location: Tucson, AZ
+    venueName: Rialto Theatre
+    ticketsLink: https://www.ticketmaster.com/event/19005C7127925317
+      https://www.rialtotheatre.com/
 ---
