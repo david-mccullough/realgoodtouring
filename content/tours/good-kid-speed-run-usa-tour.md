@@ -21,7 +21,7 @@ events:
     location: Boston, MA
     ticketsLink: https://www.ticketweb.com/event/good-kid-and-special-guests-middle-east-upstairs-tickets/11686425?pl=mideastclub
     venueName: Mid East - Upstairs
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/13/22
     location: Brooklyn, NY
