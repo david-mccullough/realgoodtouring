@@ -15,7 +15,7 @@ events:
     location: Portland, OR
     venueName: Holocene (Late Show)
     ticketsLink: https://www.etix.com/ticket/p/3784422/late-show-addedskweezy-jibbscaps-lock-live-tour-wadam-pasi-21-portland-holocene
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/14/22
     location: Seattle, WA
