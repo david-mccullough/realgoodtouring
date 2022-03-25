@@ -44,7 +44,7 @@ events:
     date: 06/11/22
     location: Atlanta, GA
     venueName: The Eastern
-    ticketsLink: https://www.axs.com/artists/1107222/game-grumps-tickets
+    ticketsLink: https://www.axs.com/events/428676/game-grumps-live-tickets
   - isSoldOut: false
     note: ""
     date: 06/13/22
@@ -78,7 +78,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 06/21/22
-    ticketsLink: www.bochcenter.org/gamegrumps
+    ticketsLink: https://www.bochcenter.org/events/detail/gamegrumps
     venueName: Boch Center Shubert Theatre
     location: Boston, MA
   - isSoldOut: false
