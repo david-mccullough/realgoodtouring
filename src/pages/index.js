@@ -51,7 +51,11 @@ const IndexPage = ({
       edge.node.frontmatter.events = edge.node.frontmatter.events.filter(
         (event) => {
           if (!event.date) return true;
-          else return dayjs(event.date) > currentDate;
+          else {
+            let eventDay = dayjs(event.date).startOf("day");
+            let currentDay = currentDate.startOf("day");
+            return eventDay >= currentDay;
+          }
         }
       );
     });
