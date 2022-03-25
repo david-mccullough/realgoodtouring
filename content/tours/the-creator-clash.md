@@ -8,5 +8,5 @@ events:
     date: 05/14/22
     location: Tampa, FL
     venueName: TBA
-    ticketsLink: TBA
+    ticketsLink: https://www.momenthouse.com/creatorclash
 ---
