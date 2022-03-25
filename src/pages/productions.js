@@ -7,7 +7,7 @@ const ProducedByRgtPage = () => {
   return (
     <Layout>
       <MetaTags title="Produced by RGT - Real Good Touring">
-        <script src="scripts/image-gallery.js"></script>
+        <script src="../scripts/image-gallery.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       </MetaTags>
 
