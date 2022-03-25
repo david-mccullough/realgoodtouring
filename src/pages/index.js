@@ -9,7 +9,9 @@ import Footer from "../components/Footer";
 import NewsletterForm from "../components/NewsletterForm";
 import * as dayjs from "dayjs";
 import dayjsPluginUTC from "dayjs-plugin-utc";
-dayjs.extend(dayjsPluginUTC);
+import timezone from "dayjs/plugin/timezone";
+dayjs.extend(timezone);
+//dayjs.extend(dayjsPluginUTC);
 
 let Tours = [];
 
@@ -61,11 +63,13 @@ const IndexPage = ({
     });
 
     // if all events have expired, filter out this tour OR we arent live yet
-    edges = edges.filter(
-      (edge) =>
-        edge.node.frontmatter.events.length > 0 &&
-        dayjs(edge.node.frontmatter.liveTime) < currentDate
-    );
+    edges = edges.filter((edge) => {
+      let goLivePST = dayjs.tz(
+        edge.node.frontmatter.liveTime,
+        "America/Los_Angeles"
+      );
+      return edge.node.frontmatter.events.length > 0 && currentDate > goLivePST;
+    });
 
     edges.sort(function (a, b) {
       return (

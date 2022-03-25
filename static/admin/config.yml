@@ -21,7 +21,7 @@ collections:
           label: "Thumbnail",
           name: "Image",
           widget: "image",
-          hint: "Try to keep below 200kb!",
+          hint: "Please try to keep below 200kb! https://tinypng.com/ is a great tool for image compression.",
           required: false,
           default: "",
         }
@@ -30,7 +30,7 @@ collections:
           name: "liveTime",
           widget: "datetime",
           picker_utc: true,
-          hint: "UTC standard (tours are sorted based on this field)",
+          hint: "PST (tours are sorted based on this field)",
         }
       - label: "Events"
         name: "events"
