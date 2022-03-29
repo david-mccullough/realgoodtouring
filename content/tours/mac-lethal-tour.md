@@ -35,24 +35,6 @@ events:
     ticketsLink: https://www.ticketweb.com/event/mac-lethal-subterranean-tickets/11605455?pl=kickstand
   - isSoldOut: false
     note: ""
-    date: 04/13/22
-    location: Cleveland, OH
-    venueName: Beachland Tavern
-    ticketsLink: https://www.ticketweb.com/event/mac-lethal-beachland-tavern-tickets/11606525?pl=beachland
-  - isSoldOut: false
-    note: ""
-    date: 04/15/22
-    location: Burlington, VT
-    venueName: Higher Ground - Showcase
-    ticketsLink: https://www.seetickets.us/event/Mac-Lethal/460803
-  - isSoldOut: false
-    note: ""
-    date: 04/16/22
-    location: Boston, MA
-    venueName: ZUZU!
-    ticketsLink: https://www.ticketweb.com/event/mac-lethal-feral-the-earthworm-middle-east-zuzu-tickets/11874525?pl=mideastclub
-  - isSoldOut: false
-    note: ""
     date: 05/04/22
     location: St Louis, MO
     venueName: Old Rock House
