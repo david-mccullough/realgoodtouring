@@ -34,6 +34,12 @@ events:
     venueName: The Helix
     ticketsLink: https://thehelix.ie/what-s-on/all-events/scribble-showdown/
   - isSoldOut: false
+    note: EARLY SHOW ADDED DUE TO DEMAND
+    date: 04/21/22
+    location: Dublin
+    venueName: The Helix
+    ticketsLink: https://thehelix.ticketsolve.com/shows/1173624219/events
+  - isSoldOut: false
     note: ""
     date: 04/24/22
     location: Edinburgh
