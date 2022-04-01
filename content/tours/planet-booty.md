@@ -8,7 +8,7 @@ events:
     date: 05/21/22
     location: Arcata, CA
     venueName: The Miniplex
-    ticketsLink: /
+    ticketsLink: https://miniplex.ticketleap.com/planet-booty-2022/
   - isSoldOut: false
     note: ""
     date: 05/22/22
@@ -32,7 +32,7 @@ events:
     date: 05/29/22
     location: Los Angeles, CA
     venueName: The Smell
-    ticketsLink: /
+    ticketsLink: https://www.eventbrite.com/e/planet-booty-tickets-309190445947
   - isSoldOut: false
     note: ""
     date: 05/30/22
