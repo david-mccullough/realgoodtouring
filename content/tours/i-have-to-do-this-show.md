@@ -73,8 +73,8 @@ events:
     note: ""
     date: 04/04/22
     location: Nashville, TN
-    venueName: Cannery Ballroom
-    ticketsLink: https://www.eventbrite.com/e/crankgameplays-i-have-to-do-this-tour-tickets-173047909957?aff=artist
+    venueName: Marathon Music Works
+    ticketsLink: https://www.ticketweb.com/event/crankgameplays-presents-i-have-to-marathon-music-works-tickets/11976345?pl=marathonmusicworks
   - isSoldOut: false
     note: ""
     date: 04/06/22
