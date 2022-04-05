@@ -74,7 +74,7 @@ events:
     location: Portland, OR
     venueName: Polaris Hall
     ticketsLink: https://www.etix.com/ticket/p/6976434/the-out-of-the-woods-tour-featrav-kill-bill-scuare-airospace-portland-polaris-hall
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/09/22
     location: Seattle, WA
