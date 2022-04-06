@@ -38,7 +38,7 @@ events:
     date: 05/30/22
     location: Palm Springs, CA
     venueName: The Alibi
-    ticketsLink: /
+    ticketsLink: https://tixr.com/e/40384
   - isSoldOut: false
     note: ""
     date: 05/31/22
