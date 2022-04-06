@@ -23,12 +23,6 @@ events:
     ticketsLink: https://www.axs.com/events/420761/mac-lethal-tickets?skin=firstavenue
   - isSoldOut: false
     note: ""
-    date: 04/11/22
-    location: Madison, WI
-    venueName: High Noon Saloon
-    ticketsLink: https://www.ticketmaster.com/event/07005B87FE6B607E
-  - isSoldOut: false
-    note: ""
     date: 04/12/22
     location: Chicago, IL
     venueName: SubT
