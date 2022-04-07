@@ -8,7 +8,7 @@ events:
     date: 06/15/22
     location: Milwaukee, WI
     venueName: Back Room @ Colectivo
-    ticketsLink: https://www.pabsttheatergroup.com/events/detail/daniel-thrasher-2022
+    ticketsLink: https://www.axs.com/events/430778/daniel-thrasher-tickets?skin=pabst
   - isSoldOut: false
     note: Early Show
     date: 06/16/22
