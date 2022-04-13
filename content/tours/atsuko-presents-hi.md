@@ -33,7 +33,7 @@ events:
     location: Houston, TX
     venueName: " The Secret Group"
     ticketsLink: https://www.eventbrite.com/e/atsuko-okatsuka-tickets-210038188877
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/14/22
     location: "Atlanta, GA "
