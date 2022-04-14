@@ -1,7 +1,7 @@
 ---
 title: "CUP PONG: Alpharad's invitational"
 Image: ../../static/img/cup-pong-admat_poster-2.png
-liveTime: 2022-04-14T21:43:25.911Z
+liveTime: 2022-04-14T11:47:32.092Z
 events:
   - isSoldOut: false
     note: 18+ Event
