@@ -3,37 +3,13 @@ title: TWRP
 Image: ../../static/img/twrp_newandimproved2022_instagramsquare_pg2_updated.png
 liveTime: 2021-11-30
 events:
-  - isSoldOut: true
-    note: ""
-    date: 03/08/22
-    location: Houston, TX
-    venueName: White Oak Music Hall - Upstairs
-    ticketsLink: https://wl.seetickets.us/event/TWRP/441998?afflky=WhiteOakMusicHall
-  - isSoldOut: false
-    note: ""
-    date: 03/10/22
-    location: Austin, TX
-    venueName: " Empire Control Room"
-    ticketsLink: https://www.prekindle.com/promo/id/531433528120971365
-  - isSoldOut: false
-    note: ""
-    date: 03/11/22
-    location: San Antonio, TX
-    venueName: Paper Tiger
-    ticketsLink: https://www.seetickets.us/event/TWRP/462514
-  - isSoldOut: true
-    note: ""
-    date: 03/12/22
-    location: Dallas, TX
-    venueName: Deep Ellum
-    ticketsLink: https://www.prekindle.com/event/78845-twrp-with-support-from-rich-aucoin-dallas
   - isSoldOut: false
     note: ""
     date: 04/18/22
     location: Tucson, AZ
     venueName: 191 Toole
     ticketsLink: https://www.ticketmaster.com/twrp-191-toole-tucson-arizona-01-11-2022/event/19005B1AF2AD2CD7?camefrom=cfc_toole_220111show&brand=toole
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 04/19/22
     location: San Diego, CA
