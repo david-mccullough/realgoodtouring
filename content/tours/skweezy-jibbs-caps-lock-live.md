@@ -1,7 +1,7 @@
 ---
 title: "SKWEEZY JIBBS: CAPS LOCK LIVE"
 Image: ../../static/img/rgt_skweezy-jibbs_admat_v2.png
-liveTime: 2022-02-15T18:00:54.524Z
+liveTime: 2022-04-18T19:41:07.990Z
 events:
   - isSoldOut: false
     note: ""
