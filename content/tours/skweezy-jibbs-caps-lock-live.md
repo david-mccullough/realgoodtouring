@@ -73,7 +73,7 @@ events:
     note: ""
     date: 09/06/22
     location: Minneapolis, MN
-    venueName: Turf Club (21+)
+    venueName: Turf Club
     ticketsLink: https://www.axs.com/events/430242/skweezy-jibbs-tickets?skin=turfclub
   - isSoldOut: false
     note: ""
@@ -85,7 +85,7 @@ events:
     note: ""
     date: 09/09/22
     location: Chicago, IL
-    venueName: Beat Kitchen (17+)
+    venueName: Beat Kitchen
     ticketsLink: https://www.ticketweb.com/event/skweezy-jibbs-caps-beat-kitchen-tickets/12029845?pl=kickstand
   - isSoldOut: false
     note: ""
