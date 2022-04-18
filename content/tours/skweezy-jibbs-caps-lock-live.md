@@ -62,7 +62,7 @@ events:
     date: 09/03/22
     location: Memphis, TN
     venueName: Hi-Tone
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: https://www.etix.com/ticket/p/8336155/skweezy-jibbs-wadam-pasi-memphis-the-hi-tone-cafe
   - isSoldOut: false
     note: ""
     date: 09/04/22
