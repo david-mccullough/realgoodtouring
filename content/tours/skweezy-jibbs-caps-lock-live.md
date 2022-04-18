@@ -116,11 +116,11 @@ events:
     date: 09/27/22
     location: Columbus, OH
     venueName: Skully's
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: https://www.ticketweb.com/event/caps-locks-live-skweezy-jibbs-skullys-music-diner-tickets/12034095?pl=celebrity
   - isSoldOut: false
     note: ""
     date: 09/28/22
     location: Boston, MA
     venueName: Crystal Ballroom
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: https://thewilbur.com/crystal-ballroom/artist/skweezy-jibbs/
 ---
