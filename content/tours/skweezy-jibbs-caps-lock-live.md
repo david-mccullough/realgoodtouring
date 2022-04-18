@@ -80,7 +80,7 @@ events:
     date: 09/08/22
     location: Milwaukee, WI
     venueName: Backroom @ Collectivo
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: https://www.pabsttheatergroup.com/events/detail/skweezy-jibbs-2022/
   - isSoldOut: false
     note: ""
     date: 09/09/22
