@@ -26,7 +26,7 @@ events:
     date: 08/06/22
     location: Los Angeles, CA
     venueName: Teragram Ballroom
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: https://one.ticketmaster.com/app/eventbase/event/11ecbf33-cf15-ea40-827f-b126cfb5ff2c
   - isSoldOut: false
     note: ""
     date: 08/07/22
