@@ -36,7 +36,7 @@ events:
   - isSoldOut: false
     note: ""
     date: 08/11/22
-    location: Pheonix, AZ
+    location: Phoenix, AZ
     venueName: Valley Bar
     ticketsLink: https://wl.seetickets.us/event/Skweezy-Jibbs/479271?afflky=ValleyBarPHX
   - isSoldOut: false
@@ -119,7 +119,7 @@ events:
     ticketsLink: https://www.ticketweb.com/event/caps-locks-live-skweezy-jibbs-skullys-music-diner-tickets/12034095?pl=celebrity
   - isSoldOut: false
     note: ""
-    date: 09/28/22
+    date: 09/29/22
     location: Boston, MA
     venueName: Crystal Ballroom
     ticketsLink: https://thewilbur.com/crystal-ballroom/artist/skweezy-jibbs/
