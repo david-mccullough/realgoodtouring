@@ -18,8 +18,8 @@ events:
   - isSoldOut: false
     note: ""
     date: 08/05/22
-    location: The Atrium
-    venueName: Santa Cruz, CA
+    location: Santa Cruz, CA
+    venueName: The Atrium
     ticketsLink: https://www.etix.com/ticket/p/4125249/live-in-the-atriumskweezy-jibbs-santa-cruz-the-catalyst-atrium
   - isSoldOut: false
     note: ""
@@ -50,7 +50,7 @@ events:
     date: 08/14/22
     location: Denver, CO
     venueName: Cervantes
-    ticketsLink: bit.ly/SkweezyJibbsCervs
+    ticketsLink: https://www.etix.com/ticket/p/5204036/skweezy-jibbs-wadam-pasi-denver-cervantesother-side
   - isSoldOut: false
     note: ""
     date: 08/31/22
