@@ -50,7 +50,7 @@ events:
     date: 08/14/22
     location: Denver, CO
     venueName: Cervantes
-    ticketsLink: https://www.instagram.com/skweezy4real/?hl=en
+    ticketsLink: bit.ly/SkweezyJibbsCervs
   - isSoldOut: false
     note: ""
     date: 08/31/22
