@@ -26,7 +26,7 @@ events:
     date: 08/06/22
     location: Los Angeles, CA
     venueName: Teragram Ballroom
-    ticketsLink: https://one.ticketmaster.com/app/eventbase/event/11ecbf33-cf15-ea40-827f-b126cfb5ff2c
+    ticketsLink: https://www.ticketmaster.com/skweezy-jibbs-caps-locks-live-los-angeles-california-08-06-2022/event/09005C928F25128C
   - isSoldOut: false
     note: ""
     date: 08/07/22
