@@ -37,7 +37,7 @@ events:
     note: ""
     date: 07/18/22
     location: Seattle, WA
-    ticketsLink: /
+    ticketsLink: https://www.ticketweb.com/event/letters-live-with-peppermint-at-chop-suey-tickets/12076155
     venueName: Chop Suey
   - isSoldOut: false
     note: ""
