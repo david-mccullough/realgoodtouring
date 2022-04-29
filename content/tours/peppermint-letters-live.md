@@ -1,6 +1,6 @@
 ---
 title: "Peppermint: Letters Live"
-Image: ../../static/img/peppermint.jpg
+Image: ../../static/img/pep-poster.jpeg
 liveTime: 2022-04-29T07:00:28.464Z
 events:
   - isSoldOut: false
