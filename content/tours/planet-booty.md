@@ -8,7 +8,7 @@ events:
     date: 05/21/22
     location: Arcata, CA
     venueName: The Miniplex
-    ticketsLink: https://miniplex.ticketleap.com/planet-booty-2022/
+    ticketsLink: https://miniplex.ticketleap.com/planet-booty-2022/dates/May-21-2022_at_0900PM
   - isSoldOut: false
     note: ""
     date: 05/22/22
