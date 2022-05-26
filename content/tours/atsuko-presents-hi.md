@@ -45,7 +45,7 @@ events:
     location: Vancouver, CA
     venueName: Biltmore Cabaret
     ticketsLink: https://jflvancouver.com/show/atsuko-okatsuka-biltmore/
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 06/04/22
     location: Berkeley, CA
