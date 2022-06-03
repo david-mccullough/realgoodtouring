@@ -5,12 +5,6 @@ liveTime: 2022-03-22T20:25:15.911Z
 events:
   - isSoldOut: false
     note: ""
-    date: 06/01/22
-    location: San Jose, CA
-    venueName: San Jose Civic
-    ticketsLink: https://www.axs.com/events/428535/game-grumps-live-tournament-of-gamers-tickets
-  - isSoldOut: false
-    note: ""
     date: 06/03/22
     location: Seattle, WA
     venueName: Paramount Theatre
