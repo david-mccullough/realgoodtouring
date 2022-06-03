@@ -23,12 +23,6 @@ events:
     ticketsLink: https://emosaustin.frontgatetickets.com/event/opl2s48f7o9wkrjt
   - isSoldOut: false
     note: ""
-    date: 07/24/22
-    location: San Antonio, TX
-    venueName: Aztec
-    ticketsLink: https://www.ticketmaster.com/event/3A005A8FF2063AC9
-  - isSoldOut: false
-    note: ""
     date: 07/27/22
     location: Seattle, WA
     venueName: Neptune Theatre
