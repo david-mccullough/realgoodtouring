@@ -5,42 +5,6 @@ liveTime: 2022-04-05T10:00:55.010Z
 events:
   - isSoldOut: false
     note: ""
-    date: 05/27/22
-    location: Newport, KY
-    venueName: Southgate House Revival - Sanctuary
-    ticketsLink: https://www.ticketweb.com/event/twrp-rich-aucoin-the-southgate-house-revival-tickets/11620705?pl=southgatehouse
-  - isSoldOut: false
-    note: ""
-    date: 05/28/22
-    location: Detroit, MI
-    venueName: Loving Touch
-    ticketsLink: https://www.audiotreepresents.com/shows/05-28-2022-twrp
-  - isSoldOut: false
-    note: ""
-    date: 05/29/22
-    location: Grand Rapids, MI
-    venueName: Pyramid Scheme
-    ticketsLink: https://www.ticketweb.com/event/twrp-the-pyramid-scheme-tickets/11990145?pl=pyramid
-  - isSoldOut: false
-    note: ""
-    date: 05/31/22
-    location: Minneapolis, MN
-    venueName: Turf Club (21+)
-    ticketsLink: https://www.axs.com/events/426850/twrp-tickets?skin=turfclub
-  - isSoldOut: false
-    note: ""
-    date: 06/01/22
-    location: Omaha, NE
-    venueName: Slowdown
-    ticketsLink: https://wl.seetickets.us/event/TWRP/475301?afflky=Slowdown
-  - isSoldOut: false
-    note: ""
-    date: 06/02/22
-    location: Kansas City, MO
-    venueName: recordBar
-    ticketsLink: https://app.showslinger.com/ticket_payment/4379/preview_ticket
-  - isSoldOut: false
-    note: ""
     date: 06/04/22
     location: Nashville, TN
     venueName: Basement East
