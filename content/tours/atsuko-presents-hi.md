@@ -16,13 +16,13 @@ events:
     venueName: HB Social Club
     ticketsLink: https://www.eventbrite.com/e/riseup-live-comedy-u-present-atsuko-okatsuka-tickets-288710489847
   - isSoldOut: true
-    note: Early Show
+    note: 7pm Early Show
     date: 07/17/22
     location: Berkeley, CA
     venueName: Cornerstone
     ticketsLink: https://wl.seetickets.us/event/Atsuko-Okatsuka/479164?afflky=CornerstoneBerkeley
   - isSoldOut: false
-    note: Late Show
+    note: 9:30pm Late Show
     date: 07/17/22
     location: Berkeley, CA
     venueName: Cornerstone
