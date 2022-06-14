@@ -1,7 +1,7 @@
 ---
 title: "Ninja Sex Party: Up Close and Personal Tour"
 Image: ../../static/img/tour.png
-liveTime: 2022-06-13T16:51:45.339Z
+liveTime: 2022-06-14T10:20:14.970Z
 events:
   - isSoldOut: false
     note: ""
