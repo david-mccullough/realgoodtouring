@@ -49,7 +49,7 @@ events:
     note: ""
     date: 09/23/22
     location: New York, NY
-    venueName: The Filmore
+    venueName: Irving Plaza
     ticketsLink: https://www.ticketmaster.com/event/00005CCD3B8D9A52
   - isSoldOut: false
     note: ""
