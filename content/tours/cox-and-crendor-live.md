@@ -1,7 +1,7 @@
 ---
 title: Cox and Crendor Live
 Image: ../../static/img/poster.png
-liveTime: 2022-06-21T23:31:00.571Z
+liveTime: 2022-06-21T11:31:00.571Z
 events:
   - isSoldOut: false
     note: ""
