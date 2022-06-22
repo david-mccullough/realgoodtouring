@@ -9,7 +9,7 @@ events:
     location: Columbus, OH
     venueName: Southern Theatre
     ticketsLink: https://my.cbusarts.com/4148
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 09/11/22
     location: Indianapolis, IN
