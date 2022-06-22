@@ -81,19 +81,19 @@ events:
     location: Albany, NY
     venueName: The Egg
     ticketsLink: http://www.theegg.org/event/game-grumps-live-tournament-of-gamers
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 06/24/22
     ticketsLink: https://admitone.com/events/gamegrumps-toronto-7983169
     venueName: Queen Elizabeth Theater
     location: Toronto, ON
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 06/25/22
     location: Cleveland, OH
     venueName: The Agora
     ticketsLink: https://www.axs.com/events/429036/game-grumps-live-tickets
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 06/28/22
     ticketsLink: https://www.axs.com/events/429088/game-grumps-live-tickets?skin=fitzgeraldtheater
