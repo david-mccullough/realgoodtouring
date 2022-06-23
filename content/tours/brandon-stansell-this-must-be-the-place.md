@@ -56,5 +56,5 @@ events:
     date: 08/28/22
     location: Minneapolis, MN
     venueName: Lush
-    ticketsLink: /
+    ticketsLink: https://www.exploretock.com/lushloungetheater/event/350775/brandon-stansell-concert
 ---
