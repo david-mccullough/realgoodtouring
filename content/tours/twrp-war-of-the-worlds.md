@@ -1,7 +1,7 @@
 ---
 title: "TWRP: War of the Worlds"
 Image: ../../static/img/twrp_wotw_fullposter.png
-liveTime: 2022-06-28T22:12:27.913Z
+liveTime: 2022-06-28T22:36:54.183Z
 events:
   - isSoldOut: false
     note: ""
