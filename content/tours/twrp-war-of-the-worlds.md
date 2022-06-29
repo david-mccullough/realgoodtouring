@@ -8,7 +8,7 @@ events:
     date: 10/19/22
     location: Dublin, IE
     venueName: Sugar Club
-    ticketsLink: /
+    ticketsLink: https://thesugarclub.com/tc-events/twrp/
   - isSoldOut: false
     note: ""
     date: 10/20/22
