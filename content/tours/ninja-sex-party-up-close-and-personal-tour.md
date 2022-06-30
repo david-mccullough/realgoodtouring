@@ -68,7 +68,7 @@ events:
     date: 09/30/22
     location: Durham, NC
     venueName: Carolina Theatre
-    ticketsLink: https://www.ticketmaster.com/event/2D005CC9DAEC6E3B
+    ticketsLink: http://carolinatheatre.showare.com/3NS0930
   - isSoldOut: false
     note: ""
     date: 10/02/22
