@@ -1,5 +1,5 @@
 ---
-title: "Planet Booty "
+title: "Planet Booty: Booty Camp"
 Image: ../../static/img/2022bootycamp-full4.png
 liveTime: 2022-04-27T13:00:14.067Z
 events:
