@@ -1,5 +1,5 @@
 ---
-title: "Planet Booty: Sweaty Already Tour"
+title: "Planet Booty: Sweaty Already"
 Image: ../../static/img/planetbootysweaty-square.jpg
 liveTime: 2022-07-06T17:56:48.490Z
 events:
