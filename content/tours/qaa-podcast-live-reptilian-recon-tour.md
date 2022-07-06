@@ -1,7 +1,7 @@
 ---
 title: QAA Podcast LIVE - Reptilian Recon Tour
 Image: ../../static/img/qanonanonymous_tour_admat_11x17-1-.png
-liveTime: 2022-07-06T21:20:19.011Z
+liveTime: 2022-07-06T14:22:19.011Z
 events:
   - isSoldOut: false
     note: ""
