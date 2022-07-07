@@ -8,8 +8,7 @@ events:
     date: 12/16/22
     location: Tucson, AZ
     venueName: Rialto Theatre
-    ticketsLink: https://www.ticketmaster.com/event/19005C7127925317
-      https://www.rialtotheatre.com/
+    ticketsLink: https://www.rialtotheatre.com/events/the-skeptics-guide-to-the-universe/
   - isSoldOut: false
     note: ""
     date: 12/17/22
