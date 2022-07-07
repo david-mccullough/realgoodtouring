@@ -14,7 +14,6 @@ events:
     note: ""
     date: 12/17/22
     location: Phoenix, AZ
-    venueName: The Van Buren
-    ticketsLink: https://www.ticketmaster.com/event/19005C71FA514B8B
-      https://www.thevanburenphx.com
+    venueName: Crescent Ballroom
+    ticketsLink: https://wl.seetickets.us/event/The-SkepticsGuidetotheUniverse/492084?afflky=CrescentBallroomPHX
 ---
