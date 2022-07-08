@@ -17,6 +17,12 @@ events:
     ticketsLink: https://www.ticketweb.com/event/qanon-anonymous-here-after-tickets/12269615?pl=crocodile
   - isSoldOut: false
     note: ""
+    date: 09/09/22
+    location: Seattle, WA
+    venueName: Here-After (Late)
+    ticketsLink: https://www.ticketweb.com/event/qanon-anonymous-here-after-tickets/12269625?pl=crocodile
+  - isSoldOut: false
+    note: ""
     date: 09/10/22
     location: Eugene, OR
     venueName: W.O.W Hall
