@@ -44,13 +44,13 @@ events:
     date: 10/05/22
     location: Philadelphia, PA
     venueName: Keswick
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/440899/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/08/22
     location: New York City, NY
     venueName: Palladium
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/00005CE7AF53401E
   - isSoldOut: false
     note: ""
     date: 10/09/22
@@ -74,7 +74,13 @@ events:
     date: 10/14/22
     location: Orlando, FL
     venueName: Plaza Live
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/440916/trash-taste-tickets
+  - isSoldOut: false
+    note: ""
+    date: 10/16/22
+    location: Dallas, TX
+    venueName: Majestic Theatre
+    ticketsLink: https://www.axs.com/events/441508/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/17/22
@@ -83,56 +89,50 @@ events:
     ticketsLink: http://google.com
   - isSoldOut: false
     note: ""
-    date: 10/18/22
-    location: Dallas, TX
-    venueName: Majestic Theatre
-    ticketsLink: http://google.com
-  - isSoldOut: false
-    note: ""
     date: 10/19/22
     location: Kansas City, MO
     venueName: The Folly
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441509/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/21/22
     location: Denver, CO
     venueName: Paramount
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/1E005CE8D2F0343A
   - isSoldOut: false
     note: ""
     date: 10/22/22
     location: Salt Lake City, UT
     venueName: The Union
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/1E005CE8B3312B1B
   - isSoldOut: false
     note: ""
     date: 10/24/22
     location: Pheonix, AZ
     venueName: Orpheum
-    ticketsLink: http://google.com
+    ticketsLink: https://www.etix.com/ticket/p/6981421/trash-taste-phoenix-orpheum-theatre-phoenix
   - isSoldOut: false
     note: ""
     date: 10/25/22
     location: Los Angeles, CA
     venueName: The Montalban
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441510/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/26/22
     location: San Francisco
     venueName: Palace of Fine Arts
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441511/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/29/22
     location: Seattle, WA
     venueName: The Moore
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/0F005CE8EA1B61F1
   - isSoldOut: false
     note: ""
     date: 10/30/22
     location: Portland, OR
     venueName: Revolution Hall
-    ticketsLink: http://google.com
+    ticketsLink: https://www.etix.com/ticket/p/4307380/trash-taste-live-portland-revolution-hall
 ---
