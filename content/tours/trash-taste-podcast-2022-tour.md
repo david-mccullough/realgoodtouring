@@ -8,37 +8,37 @@ events:
     date: 09/25/22
     location: St. Paul, MN
     venueName: The Fitzgerald
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441556/trash-taste-tickets?skin=fitzgeraldtheater
   - isSoldOut: false
     note: ""
     date: 09/27/22
     location: Chicago, IL
     venueName: The Vic
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441343/trash-taste-live-tickets
   - isSoldOut: false
     note: ""
     date: 09/28/22
     location: Cleveland, OH
     venueName: The Agora
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441409/trash-taste-live-tickets
   - isSoldOut: false
     note: ""
     date: 09/30/22
     location: Detroit, MI
     venueName: Royal Oak
-    ticketsLink: http://google.com
+    ticketsLink: https://www.axs.com/events/441339/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/02/22
     location: Toronto, ON
     venueName: Queen Elizabeth Theatre
-    ticketsLink: http://google.com
+    ticketsLink: https://admitone.com/events/trash-taste-toronto-8260658
   - isSoldOut: false
     note: ""
     date: 10/04/22
     location: Boston, MA
     venueName: Shubert Theatre
-    ticketsLink: http://google.com
+    ticketsLink: http://www.bochcenter.org/TrashTaste
   - isSoldOut: false
     note: ""
     date: 10/05/22
@@ -56,18 +56,18 @@ events:
     date: 10/09/22
     location: Washington, DC
     venueName: Lincoln Theatre
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/15005CEBABA825BC
   - isSoldOut: false
     note: ""
     date: 10/10/22
     location: Raleigh, NC
-    ticketsLink: http://google.com
+    ticketsLink: https://www.ticketmaster.com/event/2D005CE6868E189C
     venueName: Meymandi
   - isSoldOut: false
     note: ""
     date: 10/12/22
     location: Nashville, TN
-    ticketsLink: http://google.com
+    ticketsLink: https://www.tpac.org/event/2022-10-12-to-2022-10-12-trash-taste
     venueName: James K Polk Theatre
   - isSoldOut: false
     note: ""
