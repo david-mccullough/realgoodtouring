@@ -86,7 +86,7 @@ events:
     date: 10/17/22
     location: Austin, TX
     venueName: Paramount Theatre
-    ticketsLink: http://google.com
+    ticketsLink: https://tickets.austintheatre.org/8553/8554
   - isSoldOut: false
     note: ""
     date: 10/19/22
