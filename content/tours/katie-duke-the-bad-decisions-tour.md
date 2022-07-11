@@ -8,13 +8,13 @@ events:
     date: 08/26/22
     location: Boston, MA
     venueName: City Winery - Garden
-    ticketsLink: http://google.com
+    ticketsLink: https://citywinery.com/boston/Online/default.asp?BOparam::WScontent::loadArticle::permalink=BOHAY-Katie-Duke-8-26-22-6pm&BOparam::WScontent::loadArticle::context_id=
   - isSoldOut: false
     note: ""
     date: 08/28/22
     location: Philadelphia, PA
     venueName: City Winery
-    ticketsLink: http://google.com
+    ticketsLink: https://citywinery.com/philadelphia/Online/default.asp?BOparam::WScontent::loadArticle::permalink=PHILFT-bad-decisions-8-28-22-8pm&BOparam::WScontent::loadArticle::context_id=
   - isSoldOut: false
     note: ""
     date: 08/29/22
