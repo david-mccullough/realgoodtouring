@@ -77,16 +77,16 @@ events:
     ticketsLink: https://www.axs.com/events/440916/trash-taste-tickets
   - isSoldOut: false
     note: ""
+    date: 10/16/22
+    location: Dallas, TX
+    venueName: Majestic Theatre
+    ticketsLink: https://www.axs.com/events/441508/trash-taste-tickets
+  - isSoldOut: false
+    note: ""
     date: 10/17/22
     location: Austin, TX
     venueName: Paramount Theatre
     ticketsLink: https://tickets.austintheatre.org/8553/8554
-  - isSoldOut: false
-    note: ""
-    date: 10/18/22
-    location: Dallas, TX
-    venueName: Majestic Theatre
-    ticketsLink: https://www.axs.com/events/441508/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/19/22
