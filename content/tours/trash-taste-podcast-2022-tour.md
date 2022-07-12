@@ -1,7 +1,7 @@
 ---
 title: Trash Taste Podcast 2022 Tour
 Image: ../../static/img/tt.png
-liveTime: 2022-07-12T03:00:25.605Z
+liveTime: 2022-07-12T03:01:25.605Z
 events:
   - isSoldOut: false
     note: ""
@@ -77,16 +77,16 @@ events:
     ticketsLink: https://www.axs.com/events/440916/trash-taste-tickets
   - isSoldOut: false
     note: ""
-    date: 10/16/22
-    location: Dallas, TX
-    venueName: Majestic Theatre
-    ticketsLink: https://www.axs.com/events/441508/trash-taste-tickets
-  - isSoldOut: false
-    note: ""
     date: 10/17/22
     location: Austin, TX
     venueName: Paramount Theatre
     ticketsLink: https://tickets.austintheatre.org/8553/8554
+  - isSoldOut: false
+    note: ""
+    date: 10/18/22
+    location: Dallas, TX
+    venueName: Majestic Theatre
+    ticketsLink: https://www.axs.com/events/441508/trash-taste-tickets
   - isSoldOut: false
     note: ""
     date: 10/19/22
