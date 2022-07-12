@@ -47,8 +47,8 @@ events:
     ticketsLink: https://citywinery.com/newyork/Online/article/NYLFT-Bad-Decisions-Show-9-9-22-7:30pm
   - isSoldOut: false
     note: ""
-    date: 07/08/22
+    date: 09/17/22
     location: Tampa, FL
     venueName: New World Music Hall
-    ticketsLink: https://katiedukefl.eventbrite.com/
+    ticketsLink: https://www.eventbrite.com/e/katie-duke-the-bad-decision-tour-in-tampa-tickets-376979033437
 ---
