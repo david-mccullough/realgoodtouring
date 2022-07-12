@@ -1,7 +1,7 @@
 ---
 title: Trash Taste Podcast 2022 Tour
 Image: ../../static/img/tt.png
-liveTime: 2022-07-12T03:01:25.605Z
+liveTime: 2022-07-12T03:02:25.605Z
 events:
   - isSoldOut: false
     note: ""
