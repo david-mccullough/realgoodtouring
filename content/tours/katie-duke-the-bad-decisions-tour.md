@@ -1,7 +1,7 @@
 ---
 title: "Katie Duke: The Bad Decisions Tour"
 Image: ../../static/img/kd.png
-liveTime: 2022-07-12T03:00:14.684Z
+liveTime: 2022-07-12T03:01:14.684Z
 events:
   - isSoldOut: false
     note: ""
