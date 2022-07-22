@@ -38,7 +38,7 @@ events:
     date: 09/07/22
     location: Atlanta, GA
     venueName: City Winery
-    ticketsLink: http://google.com
+    ticketsLink: https://www.citywinery.com/atlanta/Online/default.asp?BOparam::WScontent::loadArticle::permalink=ATL-bad-decisions-9-7-22&BOparam::WScontent::loadArticle::context_id=
   - isSoldOut: false
     note: ""
     date: 09/09/22
