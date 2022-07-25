@@ -75,7 +75,7 @@ events:
     location: Atlanta, GA
     venueName: Center Stage
     ticketsLink: https://www.ticketmaster.com/event/0E005CCDE1E44CA7
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 10/04/22
     location: Orlando, FL
