@@ -111,7 +111,7 @@ events:
     location: Pheonix, AZ
     venueName: Orpheum
     ticketsLink: https://www.etix.com/ticket/p/6981421/trash-taste-phoenix-orpheum-theatre-phoenix
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 10/25/22
     location: Los Angeles, CA
