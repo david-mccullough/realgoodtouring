@@ -9,13 +9,13 @@ events:
     location: Portland, OR
     venueName: Polaris Hall
     ticketsLink: https://www.etix.com/ticket/p/7678952/qanon-anonymous-podcast-portland-polaris-hall
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 09/09/22
     location: Seattle, WA
     venueName: Here-After (Early)
     ticketsLink: https://www.ticketweb.com/event/qanon-anonymous-here-after-tickets/12269615?pl=crocodile
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 09/09/22
     location: Seattle, WA
