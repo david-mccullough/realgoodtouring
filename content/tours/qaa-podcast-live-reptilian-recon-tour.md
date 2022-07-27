@@ -3,7 +3,7 @@ title: QAA Podcast LIVE - Reptilian Recon Tour
 Image: ../../static/img/qanonanonymous_tour_admat_11x17-1-.png
 liveTime: 2022-07-06T14:22:19.011Z
 events:
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 09/08/22
     location: Portland, OR
