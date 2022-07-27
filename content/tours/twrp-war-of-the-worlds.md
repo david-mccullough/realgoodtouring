@@ -26,7 +26,7 @@ events:
     date: 10/22/22
     location: London, UK
     venueName: The Garage
-    ticketsLink: https://www.axs.com/uk/events/439683/twrp-tickets?skin=aegpresentsuk
+    ticketsLink: https://www.thegarage.london/gigs/twrp-the-garage-london-tickets-2022/
   - isSoldOut: false
     note: ""
     date: 10/23/22
