@@ -69,7 +69,7 @@ events:
     location: Durham, NC
     venueName: Carolina Theatre
     ticketsLink: http://carolinatheatre.showare.com/3NS0930
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 10/02/22
     location: Atlanta, GA
@@ -93,7 +93,7 @@ events:
     location: Seattle, WA
     venueName: Neptune Theatre
     ticketsLink: https://www.ticketmaster.com/event/0F005CC9B760605E
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 11/04/22
     location: Portland, OR
@@ -141,7 +141,7 @@ events:
     location: Kansas City, MO
     venueName: The Folly Theater
     ticketsLink: https://www.axs.com/events/438285/ninja-sex-party-up-close-and-personal-tour-tickets
-  - isSoldOut: false
+  - isSoldOut: true
     note: ""
     date: 11/19/22
     location: Boulder, CO
