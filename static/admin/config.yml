@@ -76,6 +76,7 @@ collections:
     editor:
       preview: true
     fields:
+      - { label: "Title", name: "title", widget: "string" }
       - label: "Sections"
         name: "sections"
         widget: "list"
