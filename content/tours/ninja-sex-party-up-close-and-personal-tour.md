@@ -141,7 +141,7 @@ events:
     location: Kansas City, MO
     venueName: The Folly Theater
     ticketsLink: https://www.axs.com/events/438285/ninja-sex-party-up-close-and-personal-tour-tickets
-  - isSoldOut: true
+  - isSoldOut: false
     note: ""
     date: 11/19/22
     location: Boulder, CO
