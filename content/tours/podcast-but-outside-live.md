@@ -1,7 +1,7 @@
 ---
 title: PODCAST BUT OUTSIDE LIVE
 Image: ../../static/img/unnamed-1.png
-liveTime: 2022-08-01T13:38:13.896Z
+liveTime: 2022-08-01T19:54:27.410Z
 events:
   - isSoldOut: false
     note: ""
