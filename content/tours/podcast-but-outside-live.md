@@ -17,6 +17,12 @@ events:
     ticketsLink: https://bit.ly/PODTOR
   - isSoldOut: false
     note: ""
+    date: 09/22/22
+    location: Orlando, FL
+    venueName: The Abbey
+    ticketsLink: https://PodcastOutsideOrlando.eventbrite.com
+  - isSoldOut: false
+    note: ""
     date: 09/23/22
     ticketsLink: https://thewilbur.com/crystal-ballroom/artist/podcast-but-outside/
     venueName: Crystal Ballroom
@@ -39,4 +45,10 @@ events:
     location: Los Angeles, CA
     venueName: Bourbon Room
     ticketsLink: https://www.ticketweb.com/event/podcaqst-but-outside-the-bourbon-room-tickets/12352745?pl=BourbonRoom
+  - isSoldOut: false
+    note: ""
+    date: 11/03/22
+    location: Honolulu, HI
+    venueName: HB Social Club
+    ticketsLink: /
 ---
